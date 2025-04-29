@@ -1,0 +1,302 @@
+Timestamp,Message
+2025-04-27 20:26:36.860666,Error downloading Edge WebDriver: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-04-27 20:29:33.676572,Detected Edge version: 135.0.3179.98
+2025-04-27 20:29:33.677984,WebDriver not found at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe. Downloading...
+2025-04-27 20:29:33.678833,Attempt 1/3: Getting WebDriver version info
+2025-04-27 20:29:34.434351,Error downloading Edge WebDriver: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-04-27 20:43:14.755683,Detected Edge version: 135.0.3179.98
+2025-04-27 20:43:14.756323,Using existing WebDriver at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:43:14.756728,Creating Edge WebDriver service...
+2025-04-27 20:43:17.569428,Edge WebDriver initialized successfully
+2025-04-27 20:48:48.403142,Edge WebDriver initialized successfully
+2025-04-27 20:52:18.864981,Edge WebDriver initialized successfully
+2025-04-27 20:56:42.036886,Edge WebDriver initialized successfully
+2025-04-27 21:17:27.008960,Edge WebDriver initialized successfully
+2025-04-27 21:23:46.236370,Edge WebDriver initialized successfully
+2025-04-27 21:35:03.566833,Edge WebDriver initialized successfully
+2025-04-27 21:46:16.035064,Edge WebDriver initialized successfully
+2025-04-27 22:01:37.944655,Edge WebDriver initialized successfully
+2025-04-27 22:03:58.275981,Edge WebDriver initialized successfully
+2025-04-27 22:13:18.550644,Edge WebDriver initialized successfully
+2025-04-27 22:50:28.095878,Edge WebDriver initialized successfully
+2025-04-27 22:51:20.872230,Edge WebDriver initialized successfully
+2025-04-27 23:06:39.356783,Edge WebDriver initialized successfully
+2025-04-27 23:20:54.749614,Edge WebDriver initialized successfully
+2025-04-28 00:24:13.793392,Error initializing Edge WebDriver: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-04-28 00:26:55.126501,Error initializing Edge WebDriver: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-04-28 21:25:34.643730,"Error initializing Edge WebDriver: Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 135
+Current browser version is 107.0.1418.56 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF787457A55+24981]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7873AAC60+444240]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7876DE0EA+2011274]
+	(No symbol) [0x00007FF7871BA040]
+	(No symbol) [0x00007FF7871B93FA]
+	(No symbol) [0x00007FF7871B358E]
+	(No symbol) [0x00007FF7871B036F]
+	(No symbol) [0x00007FF7871F53D5]
+	(No symbol) [0x00007FF7871F443B]
+	(No symbol) [0x00007FF7871E8E03]
+	(No symbol) [0x00007FF7871BD686]
+	(No symbol) [0x00007FF7871BCB92]
+	(No symbol) [0x00007FF7871BD4B3]
+	(No symbol) [0x00007FF7872B900D]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7872C6943+41539]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7872BFC79+13689]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF78753A04A+290794]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7873B7D31+497697]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7873B0BB4+468644]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7873B0D03+468979]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7873A2E16+411910]
+	BaseThreadInitThunk [0x00007FFAB8727374+20]
+	RtlUserThreadStart [0x00007FFAB96FCC91+33]
+"
+2025-04-28 22:37:47.051940,Edge WebDriver initialized successfully
+2025-04-28 22:38:14.424027,Edge WebDriver initialized successfully
+2025-04-28 22:38:14.428125,Driver initialized
+2025-04-28 22:38:17.308070,Driver initialized
+2025-04-28 22:38:17.334018,Function executed successfully for element body.
+2025-04-28 22:38:17.336747,Browser opened.
+2025-04-28 22:38:19.341084,Driver initialized
+2025-04-28 22:38:21.395889,Function executed successfully for element iframe.
+2025-04-28 22:38:21.422581,Driver initialized
+2025-04-28 22:38:21.502542,Function executed successfully for element iFrameId_1745851096918.
+2025-04-28 22:38:32.099772,Driver initialized
+2025-04-28 22:38:32.194471,Function executed successfully for element content_frame.
+2025-04-28 22:38:32.209734,Driver initialized
+2025-04-28 22:38:52.288757,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-28 22:38:52.292974,Driver initialized
+2025-04-28 22:38:52.368416,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-28 22:38:53.863496,Driver initialized
+2025-04-28 22:38:53.926854,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""9""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:38:55.170059,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""9""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:00.195330,Driver initialized
+2025-04-28 22:39:02.290704,Function executed successfully for element content_frame.
+2025-04-28 22:39:07.824632,Driver initialized
+2025-04-28 22:39:07.861398,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:39:08.012007,Driver initialized
+2025-04-28 22:39:08.034442,Function executed successfully for element iframe.
+2025-04-28 22:39:08.059068,Driver initialized
+2025-04-28 22:39:08.122409,Function executed successfully for element content_frame.
+2025-04-28 22:39:08.138190,Driver initialized
+2025-04-28 22:39:08.190409,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""8""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:39:08.409060,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""8""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:13.444438,Driver initialized
+2025-04-28 22:39:13.527876,Function executed successfully for element content_frame.
+2025-04-28 22:39:18.865437,Driver initialized
+2025-04-28 22:39:18.892545,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:39:19.021891,Driver initialized
+2025-04-28 22:39:19.043884,Function executed successfully for element iframe.
+2025-04-28 22:39:19.060570,Driver initialized
+2025-04-28 22:39:19.110412,Function executed successfully for element content_frame.
+2025-04-28 22:39:19.126384,Driver initialized
+2025-04-28 22:39:19.181348,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""7""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:39:19.467242,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""7""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:24.500561,Driver initialized
+2025-04-28 22:39:24.575663,Function executed successfully for element content_frame.
+2025-04-28 22:39:30.000586,Driver initialized
+2025-04-28 22:39:30.026249,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:39:30.169598,Driver initialized
+2025-04-28 22:39:30.194508,Function executed successfully for element iframe.
+2025-04-28 22:39:30.212892,Driver initialized
+2025-04-28 22:39:30.279780,Function executed successfully for element content_frame.
+2025-04-28 22:39:30.299764,Driver initialized
+2025-04-28 22:39:30.367589,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""6""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:39:30.616369,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""6""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:35.639339,Driver initialized
+2025-04-28 22:39:35.721449,Function executed successfully for element content_frame.
+2025-04-28 22:39:41.155638,Driver initialized
+2025-04-28 22:39:41.183775,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:39:41.326458,Driver initialized
+2025-04-28 22:39:41.350797,Function executed successfully for element iframe.
+2025-04-28 22:39:41.370011,Driver initialized
+2025-04-28 22:39:41.422283,Function executed successfully for element content_frame.
+2025-04-28 22:39:41.437959,Driver initialized
+2025-04-28 22:39:41.489940,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""5""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:39:41.738167,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""5""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:46.760848,Driver initialized
+2025-04-28 22:39:46.818712,Function executed successfully for element content_frame.
+2025-04-28 22:39:52.210508,Driver initialized
+2025-04-28 22:39:52.234656,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:39:52.368503,Driver initialized
+2025-04-28 22:39:52.395846,Function executed successfully for element iframe.
+2025-04-28 22:39:52.415114,Driver initialized
+2025-04-28 22:39:52.484583,Function executed successfully for element content_frame.
+2025-04-28 22:39:52.504307,Driver initialized
+2025-04-28 22:39:52.570444,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""4""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:39:52.850520,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""4""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:39:57.872824,Driver initialized
+2025-04-28 22:39:57.950662,Function executed successfully for element content_frame.
+2025-04-28 22:40:21.990922,Driver initialized
+2025-04-28 22:40:22.015011,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:40:22.157593,Driver initialized
+2025-04-28 22:40:22.188030,Function executed successfully for element iframe.
+2025-04-28 22:40:22.205579,Driver initialized
+2025-04-28 22:40:22.264456,Function executed successfully for element content_frame.
+2025-04-28 22:40:22.279769,Driver initialized
+2025-04-28 22:40:22.339078,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""3""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-28 22:40:22.618308,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""3""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-28 22:40:27.641735,Driver initialized
+2025-04-28 22:40:27.720716,Function executed successfully for element content_frame.
+2025-04-28 23:57:25.590183,Edge WebDriver initialized successfully
+2025-04-28 23:59:06.398773,Edge WebDriver initialized successfully
+2025-04-29 00:03:02.842004,Edge WebDriver initialized successfully
+2025-04-29 00:19:57.779756,Edge WebDriver initialized successfully
+2025-04-29 00:30:06.694222,Edge WebDriver initialized successfully
+2025-04-29 01:09:38.315918,Edge WebDriver initialized successfully
+2025-04-29 01:17:45.797537,Edge WebDriver initialized successfully
+2025-04-29 01:19:02.313243,Edge WebDriver initialized successfully
+2025-04-29 01:19:24.248343,Edge WebDriver initialized successfully
+2025-04-29 02:31:47.445957,Edge WebDriver initialized successfully
+2025-04-29 02:33:32.817202,Edge WebDriver initialized successfully
+2025-04-29 02:34:04.097834,Edge WebDriver initialized successfully
+2025-04-29 02:34:04.104294,Driver initialized
+2025-04-29 02:34:09.863057,Driver initialized
+2025-04-29 02:34:09.902464,Function executed successfully for element body.
+2025-04-29 02:34:09.907399,Browser opened.
+2025-04-29 02:34:11.914968,Driver initialized
+2025-04-29 02:34:15.246973,Function executed successfully for element iframe.
+2025-04-29 02:34:15.280879,Driver initialized
+2025-04-29 02:34:15.365662,Function executed successfully for element iFrameId_1745865248617.
+2025-04-29 02:34:34.360081,Driver initialized
+2025-04-29 02:34:34.435768,Function executed successfully for element content_frame.
+2025-04-29 02:34:34.451123,Driver initialized
+2025-04-29 02:34:54.856587,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 02:34:54.863017,Driver initialized
+2025-04-29 02:34:54.960268,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:34:56.322929,Driver initialized
+2025-04-29 02:34:56.393392,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""3""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-29 02:35:00.094538,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""3""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-29 02:35:05.256867,Driver initialized
+2025-04-29 02:35:05.341774,Function executed successfully for element content_frame.
+2025-04-29 02:35:19.859958,Driver initialized
+2025-04-29 02:35:19.918445,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 02:35:20.164860,Driver initialized
+2025-04-29 02:35:20.201755,Function executed successfully for element iframe.
+2025-04-29 02:35:20.226336,Driver initialized
+2025-04-29 02:35:20.303245,Function executed successfully for element content_frame.
+2025-04-29 02:35:20.322560,Driver initialized
+2025-04-29 02:35:20.392508,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""2""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-29 02:35:20.637350,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""2""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-29 02:35:25.661682,Driver initialized
+2025-04-29 02:35:25.740904,Function executed successfully for element content_frame.
+2025-04-29 02:35:32.783129,Driver initialized
+2025-04-29 02:35:32.824414,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 02:35:32.979872,Driver initialized
+2025-04-29 02:35:33.004039,Function executed successfully for element iframe.
+2025-04-29 02:35:33.025545,Driver initialized
+2025-04-29 02:35:33.082111,Function executed successfully for element content_frame.
+2025-04-29 02:35:33.101566,Driver initialized
+2025-04-29 02:35:33.162227,"Function executed successfully for element //*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""1""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]."
+2025-04-29 02:35:33.412443,"Element '//*[contains(text(), ""Approval required for access role request"")]/ancestor::tr[@rr=""1""]//span[contains(text(), ""Approval required for access role request"") and not(@id=""WD01AF"")]' clicked."
+2025-04-29 02:35:38.438931,Driver initialized
+2025-04-29 02:35:38.670901,Function executed successfully for element content_frame.
+2025-04-29 02:35:44.026438,Driver initialized
+2025-04-29 02:35:44.061210,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 02:35:44.216266,Driver initialized
+2025-04-29 02:35:44.244058,Function executed successfully for element iframe.
+2025-04-29 02:35:44.264809,Driver initialized
+2025-04-29 02:35:44.324063,Function executed successfully for element content_frame.
+2025-04-29 02:35:52.601505,Driver initialized
+2025-04-29 02:36:12.797257,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 02:36:12.804197,Driver initialized
+2025-04-29 02:36:13.368826,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:36:30.438586,"Error during automation: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.98)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6487D7A55+24981]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF64872AC60+444240]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF648A5E0EA+2011274]
+	(No symbol) [0x00007FF6484DC2B5]
+	(No symbol) [0x00007FF64856EBF0]
+	(No symbol) [0x00007FF6485861EA]
+	(No symbol) [0x00007FF648568E03]
+	(No symbol) [0x00007FF64853D686]
+	(No symbol) [0x00007FF64853CB92]
+	(No symbol) [0x00007FF64853D4B3]
+	(No symbol) [0x00007FF64863900D]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF648646943+41539]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF64863FC79+13689]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6488BA04A+290794]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF648737D31+497697]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF648730BB4+468644]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF648730D03+468979]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF648722E16+411910]
+	BaseThreadInitThunk [0x00007FFCA7FD259D+29]
+	RtlUserThreadStart [0x00007FFCA976AF38+40]
+"
+2025-04-29 02:40:06.735802,Edge WebDriver initialized successfully
+2025-04-29 02:40:47.442925,Edge WebDriver initialized successfully
+2025-04-29 02:41:24.133495,Edge WebDriver initialized successfully
+2025-04-29 02:41:24.138594,Driver initialized
+2025-04-29 02:41:30.535733,Driver initialized
+2025-04-29 02:41:30.573736,Function executed successfully for element body.
+2025-04-29 02:41:30.578353,Browser opened.
+2025-04-29 02:41:32.586385,Driver initialized
+2025-04-29 02:41:32.617859,Function executed successfully for element iframe.
+2025-04-29 02:41:32.647698,Driver initialized
+2025-04-29 02:41:32.726637,Function executed successfully for element iFrameId_1745865689306.
+2025-04-29 02:41:57.244980,Driver initialized
+2025-04-29 02:41:57.347867,Function executed successfully for element content_frame.
+2025-04-29 02:41:57.372359,Driver initialized
+2025-04-29 02:42:17.430187,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 02:42:17.439889,Driver initialized
+2025-04-29 02:42:17.689810,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 09:33:19.355311,Edge WebDriver initialized successfully
+2025-04-29 09:33:42.268464,Edge WebDriver initialized successfully
+2025-04-29 09:33:42.276060,Driver initialized
+2025-04-29 09:33:45.510800,Driver initialized
+2025-04-29 09:33:45.565597,Function executed successfully for element body.
+2025-04-29 09:33:45.573453,Browser opened.
+2025-04-29 09:33:47.579554,Driver initialized
+2025-04-29 09:33:49.137940,Function executed successfully for element iframe.
+2025-04-29 09:33:49.884232,Driver initialized
+2025-04-29 09:33:50.021805,Function executed successfully for element iFrameId_1745890425001.
+2025-04-29 09:34:01.396529,Driver initialized
+2025-04-29 09:34:01.487051,Function executed successfully for element content_frame.
+2025-04-29 09:34:01.507576,Driver initialized
+2025-04-29 09:34:21.855462,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 09:34:21.863465,Driver initialized
+2025-04-29 09:34:21.951014,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 09:40:43.466286,Edge WebDriver initialized successfully
+2025-04-29 09:44:59.052933,Edge WebDriver initialized successfully
+2025-04-29 09:45:18.224337,Edge WebDriver initialized successfully
+2025-04-29 09:45:18.233303,Driver initialized
+2025-04-29 09:45:22.064879,Driver initialized
+2025-04-29 09:45:22.111102,Function executed successfully for element body.
+2025-04-29 09:45:22.118089,Browser opened.
+2025-04-29 09:45:24.126277,Driver initialized
+2025-04-29 09:45:25.683141,Function executed successfully for element iframe.
+2025-04-29 09:45:25.711313,Driver initialized
+2025-04-29 09:45:26.595269,Function executed successfully for element iFrameId_1745891121588.
+2025-04-29 09:45:39.973857,Driver initialized
+2025-04-29 09:45:40.133737,Function executed successfully for element content_frame.
+2025-04-29 09:45:40.155445,Driver initialized
+2025-04-29 12:21:03.321009,"Error initializing Edge WebDriver: Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 135
+Current browser version is 107.0.1418.56 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF756FD7A55+24981]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF756F2AC60+444240]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF75725E0EA+2011274]
+	(No symbol) [0x00007FF756D3A040]
+	(No symbol) [0x00007FF756D393FA]
+	(No symbol) [0x00007FF756D3358E]
+	(No symbol) [0x00007FF756D3036F]
+	(No symbol) [0x00007FF756D753D5]
+	(No symbol) [0x00007FF756D7443B]
+	(No symbol) [0x00007FF756D68E03]
+	(No symbol) [0x00007FF756D3D686]
+	(No symbol) [0x00007FF756D3CB92]
+	(No symbol) [0x00007FF756D3D4B3]
+	(No symbol) [0x00007FF756E3900D]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF756E46943+41539]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF756E3FC79+13689]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7570BA04A+290794]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF756F37D31+497697]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF756F30BB4+468644]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF756F30D03+468979]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF756F22E16+411910]
+	BaseThreadInitThunk [0x00007FFB42347374+20]
+	RtlUserThreadStart [0x00007FFB425DCC91+33]
+"

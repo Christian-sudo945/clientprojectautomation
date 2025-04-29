@@ -1,0 +1,708 @@
+Timestamp,Message
+2025-04-27 20:43:04.998643,WebDriver found on startup
+2025-04-27 20:43:14.753692,Launching approver module
+2025-04-27 20:45:02.835718,Approver module closed
+2025-04-27 20:48:41.665717,WebDriver found on startup
+2025-04-27 20:48:45.217546,Approver button clicked
+2025-04-27 20:48:45.219865,Checking WebDriver setup
+2025-04-27 20:48:45.220811,WebDriver already set up
+2025-04-27 20:48:45.274630,Approver path: C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver
+2025-04-27 20:48:45.297924,Created link.txt at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver\link.txt with path C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:48:45.334742,Importing approver.gui.setupGui
+2025-04-27 20:48:45.945190,Launching approver module - calling run_setup()
+2025-04-27 20:52:08.002995,Approver module closed successfully
+2025-04-27 20:52:08.073566,Returned to main menu
+2025-04-27 20:52:13.700988,WebDriver found on startup
+2025-04-27 20:52:15.261373,Approver button clicked
+2025-04-27 20:52:15.264075,Checking WebDriver setup
+2025-04-27 20:52:15.265025,WebDriver already set up
+2025-04-27 20:52:15.357999,Approver path: C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver
+2025-04-27 20:52:15.515037,Created link.txt at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver\link.txt with path C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:52:15.520137,Importing approver.gui.setupGui
+2025-04-27 20:52:16.385464,Launching approver module - calling run_setup()
+2025-04-27 20:52:43.517466,Approver module closed successfully
+2025-04-27 20:52:43.583244,Returned to main menu
+2025-04-27 20:52:44.894007,Dispatcher button clicked
+2025-04-27 20:52:44.897778,Checking WebDriver setup
+2025-04-27 20:52:44.899210,WebDriver already set up
+2025-04-27 20:52:44.948938,Dispatcher path: C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\dispatcher
+2025-04-27 20:52:44.952302,Created link.txt at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\dispatcher\link.txt with path C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:52:44.953629,Importing dispatcher.gui.setupGui
+2025-04-27 20:52:45.021148,Launching dispatcher module - calling run_setup()
+2025-04-27 20:55:21.667072,Dispatcher module closed successfully
+2025-04-27 20:55:21.759087,Returned to main menu
+2025-04-27 20:56:16.537141,WebDriver found on startup
+2025-04-27 20:56:30.696474,WebDriver found on startup
+2025-04-27 20:56:39.708358,Approver button clicked
+2025-04-27 20:56:39.710479,Checking WebDriver setup
+2025-04-27 20:56:39.711128,WebDriver already set up
+2025-04-27 20:56:39.774125,Approver path: C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver
+2025-04-27 20:56:39.797404,Created link.txt at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\approver\link.txt with path C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:56:39.836474,Importing approver.gui.setupGui
+2025-04-27 20:56:40.529707,Launching approver module - calling run_setup()
+2025-04-27 20:56:47.353747,Approver module closed successfully
+2025-04-27 20:56:47.433395,Returned to main menu
+2025-04-27 20:56:48.847037,Dispatcher button clicked
+2025-04-27 20:56:48.854097,Checking WebDriver setup
+2025-04-27 20:56:48.856575,WebDriver already set up
+2025-04-27 20:56:48.994476,Dispatcher path: C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\dispatcher
+2025-04-27 20:56:49.033199,Created link.txt at C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\dispatcher\link.txt with path C:\Users\User\Downloads\[DRAFT] Auto (2)\[DRAFT] Auto\edgedriver_win64\msedgedriver.exe
+2025-04-27 20:56:49.084419,Importing dispatcher.gui.setupGui
+2025-04-27 20:56:49.177076,Launching dispatcher module - calling run_setup()
+2025-04-27 21:09:10.255846,WebDriver found on startup
+2025-04-27 21:10:29.440193,WebDriver found on startup
+2025-04-27 21:17:18.891507,WebDriver found on startup
+2025-04-27 21:17:24.448019,Launching approver module
+2025-04-27 21:17:32.131865,Approver module closed
+2025-04-27 21:17:48.138173,Launching dispatcher module
+2025-04-27 21:23:09.642287,Dispatcher module closed
+2025-04-27 21:23:12.644712,WebDriver found on startup
+2025-04-27 21:23:43.636810,Launching approver module
+2025-04-27 21:29:25.797506,Approver module closed
+2025-04-27 21:34:02.488425,WebDriver found on startup
+2025-04-27 21:35:01.125296,Launching approver module
+2025-04-27 21:35:26.295026,Approver module closed
+2025-04-27 21:35:28.644898,Launching dispatcher module
+2025-04-27 21:36:15.255441,Dispatcher module closed
+2025-04-27 21:45:45.518674,WebDriver found on startup
+2025-04-27 21:46:13.699578,Launching approver module
+2025-04-27 21:46:23.847610,Approver module closed
+2025-04-27 21:46:25.861273,Launching dispatcher module
+2025-04-27 21:49:10.062279,Dispatcher module closed
+2025-04-27 21:59:51.770976,WebDriver found on startup
+2025-04-27 22:01:08.009897,WebDriver found on startup
+2025-04-27 22:01:34.124015,Launching approver module
+2025-04-27 22:01:51.183038,Approver module closed
+2025-04-27 22:01:52.375512,Launching dispatcher module
+2025-04-27 22:02:48.801626,Dispatcher module closed
+2025-04-27 22:02:50.889840,WebDriver found on startup
+2025-04-27 22:02:51.563902,WebDriver found on startup
+2025-04-27 22:03:46.500032,WebDriver found on startup
+2025-04-27 22:03:54.256079,Launching approver module
+2025-04-27 22:04:20.323451,Approver module closed
+2025-04-27 22:04:21.378323,Launching dispatcher module
+2025-04-27 22:12:56.588850,Dispatcher module closed
+2025-04-27 22:13:13.825166,WebDriver found on startup
+2025-04-27 22:13:16.233603,Launching approver module
+2025-04-27 22:13:25.041905,Approver module closed
+2025-04-27 22:13:26.133785,Launching dispatcher module
+2025-04-27 22:42:58.156294,Dispatcher module closed
+2025-04-27 22:43:00.528491,WebDriver found on startup
+2025-04-27 22:50:23.151780,WebDriver found on startup
+2025-04-27 22:50:25.699948,Launching approver module
+2025-04-27 22:50:35.071690,Approver module closed
+2025-04-27 22:51:17.429621,Launching approver module
+2025-04-27 22:51:35.739982,Approver module closed
+2025-04-27 22:51:37.312903,Launching dispatcher module
+2025-04-27 23:00:07.092045,WebDriver found on startup
+2025-04-27 23:06:28.291609,WebDriver found on startup
+2025-04-27 23:06:36.777833,Launching approver module
+2025-04-27 23:07:39.057466,Approver module closed
+2025-04-27 23:14:03.182682,WebDriver found on startup
+2025-04-27 23:14:24.616763,Launching dispatcher module
+2025-04-27 23:18:42.127653,WebDriver found on startup
+2025-04-27 23:20:23.636872,WebDriver found on startup
+2025-04-27 23:20:50.192452,Launching approver module
+2025-04-27 23:21:17.642526,Approver module closed
+2025-04-28 00:24:05.154013,WebDriver found on startup
+2025-04-28 00:24:08.614991,Launching approver module
+2025-04-28 00:24:18.158076,Approver module closed
+2025-04-28 00:24:47.460170,Launching dispatcher module
+2025-04-28 00:24:53.127451,Dispatcher module closed
+2025-04-28 00:25:02.855060,WebDriver found on startup
+2025-04-28 00:25:03.771072,WebDriver found on startup
+2025-04-28 00:26:51.026123,WebDriver found on startup
+2025-04-28 00:26:52.013093,Launching approver module
+2025-04-28 00:26:59.022914,Approver module closed
+2025-04-28 00:34:01.120760,WebDriver found on startup
+2025-04-28 00:34:06.433096,WebDriver found on startup
+2025-04-28 00:35:12.995997,WebDriver found on startup
+2025-04-28 00:37:23.713340,WebDriver found on startup
+2025-04-28 00:37:57.695048,WebDriver found on startup
+2025-04-28 00:38:47.054947,WebDriver found on startup
+2025-04-28 00:40:17.394528,WebDriver found on startup
+2025-04-28 00:40:18.688234,Filtered to show Dispatcher tool only
+2025-04-28 00:40:19.141861,Error: Could not find tool frames
+2025-04-28 00:40:19.581819,Error: Could not find tool frames
+2025-04-28 00:40:19.891781,Error: Could not find tool frames
+2025-04-28 00:40:20.391078,Error: Could not find tool frames
+2025-04-28 00:40:20.732380,Error: Could not find tool frames
+2025-04-28 00:40:21.012121,Error: Could not find tool frames
+2025-04-28 00:40:21.419022,Error: Could not find tool frames
+2025-04-28 00:40:21.823971,Error: Could not find tool frames
+2025-04-28 00:40:22.464654,Error: Could not find tool frames
+2025-04-28 00:40:22.873108,Error: Could not find tool frames
+2025-04-28 00:40:24.818823,Error: Could not find tool frames
+2025-04-28 00:40:25.104096,Error: Could not find tool frames
+2025-04-28 00:41:59.592362,WebDriver found on startup
+2025-04-28 00:42:00.670079,Showing Approver Tool only
+2025-04-28 00:42:01.079522,Showing Dispatcher Tool only
+2025-04-28 00:42:01.600163,Showing Approver Tool only
+2025-04-28 00:42:02.005359,Showing all tools
+2025-04-28 00:42:02.964965,Showing Approver Tool only
+2025-04-28 00:42:03.337060,Showing Dispatcher Tool only
+2025-04-28 00:42:03.906148,Showing Approver Tool only
+2025-04-28 00:42:04.254722,Showing all tools
+2025-04-28 00:42:04.550786,Showing Approver Tool only
+2025-04-28 00:42:04.786561,Showing Dispatcher Tool only
+2025-04-28 00:42:05.064916,Showing Approver Tool only
+2025-04-28 00:42:05.543516,Showing Dispatcher Tool only
+2025-04-28 00:42:05.893879,Showing Dispatcher Tool only
+2025-04-28 00:42:07.630197,Showing all tools
+2025-04-28 00:42:09.406505,Showing Dispatcher Tool only
+2025-04-28 00:43:52.414408,WebDriver found on startup
+2025-04-28 00:43:53.733660,Showing Dispatcher Tool only
+2025-04-28 00:43:54.258257,Showing Approver Tool only
+2025-04-28 00:43:54.707364,Showing all tools
+2025-04-28 00:43:55.032583,Showing Dispatcher Tool only
+2025-04-28 00:43:55.335490,Showing Dispatcher Tool only
+2025-04-28 00:43:55.688113,Showing Approver Tool only
+2025-04-28 00:43:55.992034,Showing all tools
+2025-04-28 00:43:59.619323,Showing Dispatcher Tool only
+2025-04-28 00:43:59.991552,Showing Approver Tool only
+2025-04-28 00:44:02.283350,Showing Dispatcher Tool only
+2025-04-28 00:44:03.494754,Showing Approver Tool only
+2025-04-28 00:44:04.512948,Showing all tools
+2025-04-28 00:44:05.762585,Showing Approver Tool only
+2025-04-28 00:44:06.657486,Showing Dispatcher Tool only
+2025-04-28 00:44:06.939726,Showing Approver Tool only
+2025-04-28 00:44:07.534753,Showing Dispatcher Tool only
+2025-04-28 00:46:08.450531,WebDriver found on startup
+2025-04-28 00:46:09.611195,Showing Approver Tool only
+2025-04-28 00:46:10.154418,Showing Dispatcher Tool only
+2025-04-28 00:46:10.661246,Showing Approver Tool only
+2025-04-28 00:46:11.228197,Showing all tools
+2025-04-28 00:46:11.590921,Showing Dispatcher Tool only
+2025-04-28 00:46:11.951400,Showing Approver Tool only
+2025-04-28 21:16:58.008811,WebDriver found on startup
+2025-04-28 21:25:24.380995,WebDriver found on startup
+2025-04-28 21:25:26.518467,Launching approver module
+2025-04-28 21:25:41.443461,Approver module closed
+2025-04-28 21:25:42.933954,Showing Approver Tool only
+2025-04-28 21:25:43.326922,Showing Dispatcher Tool only
+2025-04-28 21:25:43.731454,Showing Approver Tool only
+2025-04-28 21:25:44.070530,Showing Dispatcher Tool only
+2025-04-28 21:25:44.463453,Showing Approver Tool only
+2025-04-28 21:25:45.325453,Showing all tools
+2025-04-28 21:25:46.657833,Showing Dispatcher Tool only
+2025-04-28 21:29:32.702532,WebDriver found on startup
+2025-04-28 21:29:34.101260,Showing Approver Tool only
+2025-04-28 21:29:34.432317,Showing Dispatcher Tool only
+2025-04-28 21:29:34.808291,Showing Approver Tool only
+2025-04-28 21:29:35.365309,Showing all tools
+2025-04-28 22:37:38.494291,WebDriver found on startup
+2025-04-28 22:37:41.751173,Launching approver module
+2025-04-28 22:42:10.549693,WebDriver found on startup
+2025-04-28 22:42:13.988013,Launching dispatcher module
+2025-04-28 22:50:55.093437,WebDriver found on startup
+2025-04-28 23:09:54.833769,WebDriver found on startup
+2025-04-28 23:10:41.560613,WebDriver found on startup
+2025-04-28 23:20:03.916498,WebDriver found on startup
+2025-04-28 23:24:50.967721,WebDriver found on startup
+2025-04-28 23:24:54.067490,Showing Approver Tool only
+2025-04-28 23:24:54.499063,Showing Dispatcher Tool only
+2025-04-28 23:24:55.015876,Showing all tools
+2025-04-28 23:25:17.698951,Showing Dispatcher Tool only
+2025-04-28 23:25:18.138340,Showing Approver Tool only
+2025-04-28 23:25:18.588217,Showing Dispatcher Tool only
+2025-04-28 23:25:19.067833,Showing all tools
+2025-04-28 23:25:19.917126,Showing Dispatcher Tool only
+2025-04-28 23:25:20.567186,Showing Approver Tool only
+2025-04-28 23:25:20.846770,Showing all tools
+2025-04-28 23:26:20.488064,Showing Approver Tool only
+2025-04-28 23:26:20.888595,Showing Dispatcher Tool only
+2025-04-28 23:26:21.378916,Showing Approver Tool only
+2025-04-28 23:26:30.583164,WebDriver found on startup
+2025-04-28 23:27:16.820299,WebDriver found on startup
+2025-04-28 23:30:58.456023,WebDriver found on startup
+2025-04-28 23:31:02.759007,Showing Approver Tool only
+2025-04-28 23:31:03.277667,Showing Dispatcher Tool only
+2025-04-28 23:31:06.056617,Showing all tools
+2025-04-28 23:31:07.909315,Showing Approver Tool only
+2025-04-28 23:31:09.117570,Showing all tools
+2025-04-28 23:31:18.219216,Showing Approver Tool only
+2025-04-28 23:31:18.508445,Showing Dispatcher Tool only
+2025-04-28 23:31:19.018387,Showing all tools
+2025-04-28 23:31:20.119184,Showing Dispatcher Tool only
+2025-04-28 23:31:25.269398,Showing Approver Tool only
+2025-04-28 23:31:25.749253,Showing all tools
+2025-04-28 23:33:06.367911,Showing Approver Tool only
+2025-04-28 23:33:07.097002,Showing Dispatcher Tool only
+2025-04-28 23:33:07.816856,Showing all tools
+2025-04-28 23:33:08.587051,Showing Dispatcher Tool only
+2025-04-28 23:33:08.967562,Showing Approver Tool only
+2025-04-28 23:33:09.786535,Showing all tools
+2025-04-28 23:33:11.236974,Showing Approver Tool only
+2025-04-28 23:33:11.857123,Showing Dispatcher Tool only
+2025-04-28 23:33:12.237305,Showing all tools
+2025-04-28 23:33:12.708803,Showing Dispatcher Tool only
+2025-04-28 23:33:13.027131,Showing Approver Tool only
+2025-04-28 23:33:13.336675,Showing all tools
+2025-04-28 23:34:41.340698,WebDriver found on startup
+2025-04-28 23:34:50.581039,WebDriver found on startup
+2025-04-28 23:42:42.703536,WebDriver found on startup
+2025-04-28 23:42:45.796577,Showing Approver Tool only
+2025-04-28 23:42:46.167893,Showing Dispatcher Tool only
+2025-04-28 23:42:46.716662,Showing Approver Tool only
+2025-04-28 23:42:47.065165,Showing all tools
+2025-04-28 23:42:47.476755,Showing Approver Tool only
+2025-04-28 23:42:54.530714,WebDriver found on startup
+2025-04-28 23:51:39.053264,WebDriver found on startup
+2025-04-28 23:51:42.145895,Showing Approver Tool only
+2025-04-28 23:51:42.494499,Showing Dispatcher Tool only
+2025-04-28 23:51:42.934559,Showing all tools
+2025-04-28 23:51:43.315627,Showing Approver Tool only
+2025-04-28 23:51:43.674843,Showing Dispatcher Tool only
+2025-04-28 23:51:44.246092,Showing Approver Tool only
+2025-04-28 23:51:44.695009,Showing Approver Tool only
+2025-04-28 23:51:45.793483,Showing Approver Tool only
+2025-04-28 23:51:46.725152,Showing all tools
+2025-04-28 23:51:47.507032,Showing Approver Tool only
+2025-04-28 23:51:47.954867,Showing Dispatcher Tool only
+2025-04-28 23:51:48.405543,Showing Approver Tool only
+2025-04-28 23:51:48.774368,Showing all tools
+2025-04-28 23:51:50.465350,Showing Approver Tool only
+2025-04-28 23:51:51.814922,Showing Dispatcher Tool only
+2025-04-28 23:51:52.234603,Showing all tools
+2025-04-28 23:51:56.023948,Showing Approver Tool only
+2025-04-28 23:51:59.083694,Showing Dispatcher Tool only
+2025-04-28 23:51:59.845715,Showing Approver Tool only
+2025-04-28 23:52:00.323746,Showing all tools
+2025-04-28 23:52:01.445602,Showing Approver Tool only
+2025-04-28 23:52:01.885282,Showing Dispatcher Tool only
+2025-04-28 23:52:02.824891,Showing Approver Tool only
+2025-04-28 23:52:03.143539,Showing all tools
+2025-04-28 23:52:17.275301,Showing Approver Tool only
+2025-04-28 23:52:17.605717,Showing Dispatcher Tool only
+2025-04-28 23:52:17.963966,Showing all tools
+2025-04-28 23:52:18.254853,Showing Approver Tool only
+2025-04-28 23:52:18.594429,Showing Dispatcher Tool only
+2025-04-28 23:52:19.016020,Showing Approver Tool only
+2025-04-28 23:52:19.593027,Showing all tools
+2025-04-28 23:52:20.095220,Showing Approver Tool only
+2025-04-28 23:52:20.414793,Showing Dispatcher Tool only
+2025-04-28 23:52:20.774562,Showing all tools
+2025-04-28 23:55:48.577490,WebDriver found on startup
+2025-04-28 23:56:03.970933,WebDriver found on startup
+2025-04-28 23:57:04.063655,WebDriver found on startup
+2025-04-28 23:57:06.616664,Showing Approver Tool only
+2025-04-28 23:57:06.935241,Showing Dispatcher Tool only
+2025-04-28 23:57:07.274066,Showing all tools
+2025-04-28 23:57:19.630547,WebDriver found on startup
+2025-04-28 23:57:22.662145,Launching approver module
+2025-04-28 23:57:45.956635,Approver module closed
+2025-04-28 23:57:49.485815,Showing Approver Tool only
+2025-04-28 23:57:50.025749,Showing Dispatcher Tool only
+2025-04-28 23:57:50.635192,Showing all tools
+2025-04-28 23:57:52.164517,Showing all tools
+2025-04-28 23:57:52.686279,Showing Dispatcher Tool only
+2025-04-28 23:57:54.016988,Launching dispatcher module
+2025-04-28 23:58:03.542626,Dispatcher module closed
+2025-04-28 23:58:06.786910,Showing Approver Tool only
+2025-04-28 23:58:07.056719,Showing Dispatcher Tool only
+2025-04-28 23:58:07.324387,Showing all tools
+2025-04-28 23:58:09.675821,Showing Approver Tool only
+2025-04-28 23:58:10.186225,Showing Dispatcher Tool only
+2025-04-28 23:58:10.694425,Showing all tools
+2025-04-28 23:58:50.052534,WebDriver found on startup
+2025-04-28 23:58:56.385016,Showing Approver Tool only
+2025-04-28 23:58:56.986159,Showing Dispatcher Tool only
+2025-04-28 23:58:57.465621,Showing Approver Tool only
+2025-04-28 23:58:57.833716,Showing all tools
+2025-04-28 23:58:58.216014,Showing Approver Tool only
+2025-04-28 23:58:58.775012,Showing Dispatcher Tool only
+2025-04-28 23:58:59.283747,Showing all tools
+2025-04-28 23:59:03.702954,Launching approver module
+2025-04-28 23:59:10.915642,Approver module closed
+2025-04-28 23:59:15.194759,Showing Approver Tool only
+2025-04-28 23:59:15.475657,Showing Dispatcher Tool only
+2025-04-28 23:59:16.403884,Showing all tools
+2025-04-28 23:59:42.878441,WebDriver found on startup
+2025-04-28 23:59:45.794934,Showing Approver Tool only
+2025-04-28 23:59:46.125285,Showing Dispatcher Tool only
+2025-04-28 23:59:46.724214,Showing all tools
+2025-04-29 00:02:58.457479,WebDriver found on startup
+2025-04-29 00:03:00.311955,Launching approver module
+2025-04-29 00:03:04.703249,Approver module closed
+2025-04-29 00:03:08.245750,Showing Approver Tool only
+2025-04-29 00:03:08.635182,Showing Dispatcher Tool only
+2025-04-29 00:03:09.145043,Showing all tools
+2025-04-29 00:03:09.676627,Showing Approver Tool only
+2025-04-29 00:03:10.114727,Showing Dispatcher Tool only
+2025-04-29 00:03:10.564638,Showing Approver Tool only
+2025-04-29 00:03:10.894012,Showing all tools
+2025-04-29 00:03:11.234925,Showing Approver Tool only
+2025-04-29 00:03:38.974627,Showing Approver Tool only
+2025-04-29 00:03:39.295980,Showing Dispatcher Tool only
+2025-04-29 00:03:39.655709,Showing Approver Tool only
+2025-04-29 00:03:39.975367,Showing all tools
+2025-04-29 00:03:44.545955,Showing Approver Tool only
+2025-04-29 00:03:45.155181,Showing all tools
+2025-04-29 00:03:46.086492,Showing Approver Tool only
+2025-04-29 00:03:46.636175,Showing Dispatcher Tool only
+2025-04-29 00:03:47.366600,Showing Approver Tool only
+2025-04-29 00:03:47.976309,Showing all tools
+2025-04-29 00:11:46.152460,WebDriver found on startup
+2025-04-29 00:11:49.489107,Showing Approver Tool only
+2025-04-29 00:11:49.889835,Showing Dispatcher Tool only
+2025-04-29 00:11:50.807847,Showing all tools
+2025-04-29 00:11:51.259209,Showing Approver Tool only
+2025-04-29 00:11:51.649138,Showing Dispatcher Tool only
+2025-04-29 00:11:52.149221,Showing Approver Tool only
+2025-04-29 00:11:53.698595,Showing all tools
+2025-04-29 00:11:54.090057,Showing Approver Tool only
+2025-04-29 00:11:54.560044,Showing Dispatcher Tool only
+2025-04-29 00:11:55.357789,Showing all tools
+2025-04-29 00:11:57.272406,Launching dispatcher module
+2025-04-29 00:12:02.457836,Dispatcher module closed
+2025-04-29 00:12:38.529168,WebDriver found on startup
+2025-04-29 00:17:56.613588,WebDriver found on startup
+2025-04-29 00:18:00.308665,Showing Approver Tool only
+2025-04-29 00:18:00.847515,Showing Dispatcher Tool only
+2025-04-29 00:18:01.696825,Showing all tools
+2025-04-29 00:18:02.027543,Showing Approver Tool only
+2025-04-29 00:18:02.459330,Showing Dispatcher Tool only
+2025-04-29 00:18:02.828241,Showing Approver Tool only
+2025-04-29 00:18:03.237871,Showing all tools
+2025-04-29 00:18:03.628154,Showing Approver Tool only
+2025-04-29 00:18:04.047466,Showing Dispatcher Tool only
+2025-04-29 00:18:10.437383,Launching dispatcher module
+2025-04-29 00:18:14.404074,Dispatcher module closed
+2025-04-29 00:18:28.847253,Showing all tools
+2025-04-29 00:18:29.157496,Showing Approver Tool only
+2025-04-29 00:18:29.607453,Showing Dispatcher Tool only
+2025-04-29 00:18:29.997963,Showing Approver Tool only
+2025-04-29 00:18:31.407404,Showing Dispatcher Tool only
+2025-04-29 00:18:31.817497,Showing Approver Tool only
+2025-04-29 00:18:32.216825,Showing all tools
+2025-04-29 00:18:34.127398,Showing Approver Tool only
+2025-04-29 00:19:53.793476,WebDriver found on startup
+2025-04-29 00:19:55.126721,Launching approver module
+2025-04-29 00:20:06.897894,Approver module closed
+2025-04-29 00:20:08.727914,Showing Approver Tool only
+2025-04-29 00:20:10.029643,Showing Dispatcher Tool only
+2025-04-29 00:20:10.428205,Showing Approver Tool only
+2025-04-29 00:20:10.967998,Showing all tools
+2025-04-29 00:20:41.347671,Showing Approver Tool only
+2025-04-29 00:20:41.788462,Showing Dispatcher Tool only
+2025-04-29 00:20:42.177933,Showing Approver Tool only
+2025-04-29 00:20:42.757451,Showing all tools
+2025-04-29 00:20:43.067738,Showing Approver Tool only
+2025-04-29 00:25:13.958858,WebDriver found on startup
+2025-04-29 00:25:17.363796,Showing Approver Tool only
+2025-04-29 00:25:17.761715,Showing Dispatcher Tool only
+2025-04-29 00:25:18.301964,Showing Approver Tool only
+2025-04-29 00:25:18.691905,Showing all tools
+2025-04-29 00:25:19.091724,Showing Approver Tool only
+2025-04-29 00:25:19.690902,Showing Dispatcher Tool only
+2025-04-29 00:25:20.140892,Showing Approver Tool only
+2025-04-29 00:25:20.641541,Showing all tools
+2025-04-29 00:25:22.682015,Showing Approver Tool only
+2025-04-29 00:25:23.081190,Showing Dispatcher Tool only
+2025-04-29 00:25:24.001934,Showing all tools
+2025-04-29 00:25:27.444748,Showing Approver Tool only
+2025-04-29 00:25:27.791552,Showing Dispatcher Tool only
+2025-04-29 00:25:28.071644,Showing all tools
+2025-04-29 00:25:28.623470,Showing Approver Tool only
+2025-04-29 00:25:29.420969,Showing Approver Tool only
+2025-04-29 00:25:29.730827,Showing Dispatcher Tool only
+2025-04-29 00:25:30.070798,Showing Approver Tool only
+2025-04-29 00:25:30.471059,Showing Dispatcher Tool only
+2025-04-29 00:25:31.052274,Showing all tools
+2025-04-29 00:25:31.902469,Showing Approver Tool only
+2025-04-29 00:25:32.191339,Showing Dispatcher Tool only
+2025-04-29 00:25:32.572585,Showing all tools
+2025-04-29 00:25:33.011509,Showing Approver Tool only
+2025-04-29 00:25:33.361032,Showing Dispatcher Tool only
+2025-04-29 00:25:34.311833,Showing all tools
+2025-04-29 00:30:03.954186,Launching approver module
+2025-04-29 00:31:29.945513,Approver module closed
+2025-04-29 00:33:06.370157,WebDriver found on startup
+2025-04-29 00:33:09.592964,Showing Approver Tool only
+2025-04-29 00:33:09.982982,Error: Could not identify tool frames
+2025-04-29 00:33:10.871885,Error: Could not identify tool frames
+2025-04-29 00:33:11.291752,Error: Could not identify tool frames
+2025-04-29 00:33:11.743126,Error: Could not identify tool frames
+2025-04-29 00:33:12.302213,Error: Could not identify tool frames
+2025-04-29 00:33:12.662186,Error: Could not identify tool frames
+2025-04-29 00:33:15.042453,Error: Could not identify tool frames
+2025-04-29 00:33:15.802241,Error: Could not identify tool frames
+2025-04-29 00:37:28.989712,WebDriver found on startup
+2025-04-29 00:37:32.736406,Showing Approver Tool only
+2025-04-29 00:37:33.124079,Error: Could not identify tool frames
+2025-04-29 00:37:33.544501,Error: Could not identify tool frames
+2025-04-29 00:37:33.834133,Error: Could not identify tool frames
+2025-04-29 00:37:34.134400,Error: Could not identify tool frames
+2025-04-29 00:37:46.512459,WebDriver found on startup
+2025-04-29 00:37:49.276355,Showing Approver Tool only
+2025-04-29 00:37:49.676593,Error: Could not identify tool frames
+2025-04-29 00:37:50.185366,Error: Could not identify tool frames
+2025-04-29 00:37:50.496440,Error: Could not identify tool frames
+2025-04-29 00:37:50.985270,Error: Could not identify tool frames
+2025-04-29 00:37:51.265213,Error: Could not identify tool frames
+2025-04-29 00:37:51.615478,Error: Could not identify tool frames
+2025-04-29 00:37:59.742339,WebDriver found on startup
+2025-04-29 00:45:06.109703,WebDriver found on startup
+2025-04-29 00:45:11.172939,Showing Approver Tool only
+2025-04-29 00:45:11.693189,Showing Dispatcher Tool only
+2025-04-29 00:45:12.281294,Showing all tools
+2025-04-29 00:45:12.876142,Showing Approver Tool only
+2025-04-29 00:45:13.332018,Showing Dispatcher Tool only
+2025-04-29 00:45:14.312342,Showing all tools
+2025-04-29 00:45:15.794520,Showing Approver Tool only
+2025-04-29 00:45:16.371789,Showing all tools
+2025-04-29 00:45:17.142108,Showing all tools
+2025-04-29 00:45:17.321451,Showing all tools
+2025-04-29 00:45:17.491648,Showing all tools
+2025-04-29 00:45:17.632307,Showing all tools
+2025-04-29 00:45:17.791392,Showing all tools
+2025-04-29 00:45:18.384513,Showing Approver Tool only
+2025-04-29 00:45:18.702129,Showing Dispatcher Tool only
+2025-04-29 00:45:19.862440,Showing all tools
+2025-04-29 00:45:20.875491,Showing Approver Tool only
+2025-04-29 00:45:21.423455,Showing Dispatcher Tool only
+2025-04-29 00:45:21.922601,Showing Approver Tool only
+2025-04-29 00:45:22.291545,Showing all tools
+2025-04-29 00:45:22.883280,Showing Approver Tool only
+2025-04-29 00:45:23.352226,Showing all tools
+2025-04-29 00:45:24.084361,Showing Approver Tool only
+2025-04-29 00:45:24.412323,Showing all tools
+2025-04-29 00:49:57.515571,WebDriver found on startup
+2025-04-29 00:50:02.083824,Showing Approver Tool only
+2025-04-29 00:50:02.473579,Showing Dispatcher Tool only
+2025-04-29 00:50:03.222295,Showing all tools
+2025-04-29 00:50:11.331301,WebDriver found on startup
+2025-04-29 00:54:18.018070,WebDriver found on startup
+2025-04-29 00:54:26.099048,Showing Approver Tool only
+2025-04-29 00:54:26.479227,Showing Dispatcher Tool only
+2025-04-29 00:54:26.927844,Showing all tools
+2025-04-29 00:54:27.268803,Showing Approver Tool only
+2025-04-29 00:54:27.687612,Showing Dispatcher Tool only
+2025-04-29 00:54:28.168749,Showing all tools
+2025-04-29 00:54:28.618349,Showing Approver Tool only
+2025-04-29 00:54:28.977894,Showing all tools
+2025-04-29 00:54:53.598885,Showing Approver Tool only
+2025-04-29 00:54:54.018108,Showing Approver Tool only
+2025-04-29 00:54:54.728965,Showing all tools
+2025-04-29 00:55:02.644189,WebDriver found on startup
+2025-04-29 00:55:29.912188,WebDriver found on startup
+2025-04-29 00:55:51.433769,WebDriver found on startup
+2025-04-29 00:56:17.134377,WebDriver found on startup
+2025-04-29 00:56:58.550325,WebDriver found on startup
+2025-04-29 00:57:01.349178,Showing Approver Tool only
+2025-04-29 00:57:01.778778,Showing Dispatcher Tool only
+2025-04-29 00:57:02.517722,Showing all tools
+2025-04-29 00:57:03.158505,Showing Approver Tool only
+2025-04-29 00:57:04.088460,Showing all tools
+2025-04-29 00:57:04.549019,Showing Dispatcher Tool only
+2025-04-29 00:57:04.988401,Showing Approver Tool only
+2025-04-29 00:57:05.517806,Showing all tools
+2025-04-29 00:57:06.308353,Showing Approver Tool only
+2025-04-29 00:57:06.679008,Showing Dispatcher Tool only
+2025-04-29 00:57:07.807693,Showing all tools
+2025-04-29 00:57:08.108860,Showing Approver Tool only
+2025-04-29 00:57:09.077664,Showing all tools
+2025-04-29 00:57:14.829539,Showing Approver Tool only
+2025-04-29 00:57:17.578599,Showing Dispatcher Tool only
+2025-04-29 00:57:19.128238,Showing all tools
+2025-04-29 01:01:09.889317,WebDriver found on startup
+2025-04-29 01:01:20.036669,WebDriver found on startup
+2025-04-29 01:01:36.988309,WebDriver found on startup
+2025-04-29 01:01:43.760277,Showing Approver Tool only
+2025-04-29 01:01:44.069336,Showing Dispatcher Tool only
+2025-04-29 01:01:44.688257,Showing all tools
+2025-04-29 01:01:44.978653,Showing Approver Tool only
+2025-04-29 01:01:45.320061,Showing Dispatcher Tool only
+2025-04-29 01:01:45.610187,Showing Approver Tool only
+2025-04-29 01:01:46.148675,Showing Dispatcher Tool only
+2025-04-29 01:03:22.454133,WebDriver found on startup
+2025-04-29 01:03:24.452661,Launching dispatcher module
+2025-04-29 01:03:53.014348,Dispatcher module closed
+2025-04-29 01:03:55.617002,Launching dispatcher module
+2025-04-29 01:04:15.571377,Dispatcher module closed
+2025-04-29 01:05:46.159494,Showing Approver Tool only
+2025-04-29 01:05:46.449375,Showing Dispatcher Tool only
+2025-04-29 01:05:46.818183,Showing all tools
+2025-04-29 01:06:45.462414,WebDriver found on startup
+2025-04-29 01:07:00.049107,Showing Approver Tool only
+2025-04-29 01:07:00.378059,Showing Dispatcher Tool only
+2025-04-29 01:07:00.817659,Showing all tools
+2025-04-29 01:08:45.078242,WebDriver found on startup
+2025-04-29 01:08:46.902982,Launching approver module
+2025-04-29 01:08:47.307911,Error launching approver: module 'tkinter.ttk' has no attribute 'Window'
+2025-04-29 01:09:21.666148,WebDriver found on startup
+2025-04-29 01:09:23.195782,Launching approver module
+2025-04-29 01:09:23.556661,Error launching approver: module 'tkinter.ttk' has no attribute 'Window'
+2025-04-29 01:09:36.408821,Launching approver module
+2025-04-29 01:09:42.528667,Approver module closed
+2025-04-29 01:14:00.749668,WebDriver found on startup
+2025-04-29 01:14:02.839418,Launching approver module
+2025-04-29 01:14:03.273973,Error launching approver: module 'tkinter.ttk' has no attribute 'Window'
+2025-04-29 01:17:38.810202,WebDriver found on startup
+2025-04-29 01:17:43.131686,Launching approver module
+2025-04-29 01:18:53.771959,Approver module closed
+2025-04-29 01:19:00.338101,Launching approver module
+2025-04-29 01:19:21.056872,Approver module closed
+2025-04-29 01:19:22.489226,Launching approver module
+2025-04-29 01:20:34.696216,Approver module closed
+2025-04-29 01:31:38.759007,WebDriver found on startup
+2025-04-29 01:31:57.188594,Tool button clicked
+2025-04-29 01:31:58.338478,Info button clicked
+2025-04-29 01:31:58.807804,Danger button clicked
+2025-04-29 01:31:59.157838,Settings button clicked
+2025-04-29 01:31:59.617829,Link button clicked
+2025-04-29 01:32:19.213712,WebDriver found on startup
+2025-04-29 01:39:01.855604,WebDriver found on startup
+2025-04-29 01:49:39.878173,WebDriver found on startup
+2025-04-29 01:50:04.558051,WebDriver found on startup
+2025-04-29 01:50:25.427198,WebDriver found on startup
+2025-04-29 01:50:39.723319,WebDriver found on startup
+2025-04-29 01:50:57.100010,WebDriver found on startup
+2025-04-29 01:51:33.104955,WebDriver found on startup
+2025-04-29 01:51:38.693861,Showing Approver Tool only
+2025-04-29 01:51:39.552165,Showing Dispatcher Tool only
+2025-04-29 01:51:39.991568,Showing all tools
+2025-04-29 01:51:40.592783,Showing Approver Tool only
+2025-04-29 01:51:41.063363,Showing all tools
+2025-04-29 01:51:41.432829,Showing Approver Tool only
+2025-04-29 01:51:41.742201,Showing Dispatcher Tool only
+2025-04-29 01:51:42.563173,Showing Approver Tool only
+2025-04-29 01:51:42.931459,Showing all tools
+2025-04-29 01:51:44.182479,Showing Approver Tool only
+2025-04-29 01:51:44.502882,Showing Dispatcher Tool only
+2025-04-29 01:51:44.802441,Showing Approver Tool only
+2025-04-29 01:51:45.192189,Showing all tools
+2025-04-29 01:51:45.713069,Showing Approver Tool only
+2025-04-29 01:51:47.071867,Showing Approver Tool only
+2025-04-29 01:51:47.423297,Showing Dispatcher Tool only
+2025-04-29 01:51:48.232506,Showing all tools
+2025-04-29 01:51:55.261898,Showing all tools
+2025-04-29 01:51:55.612380,Showing Approver Tool only
+2025-04-29 01:51:55.962562,Showing Dispatcher Tool only
+2025-04-29 01:51:57.809661,Launching dispatcher module
+2025-04-29 01:52:07.486437,Dispatcher module closed
+2025-04-29 01:54:53.007835,Showing all tools
+2025-04-29 01:54:55.418634,Showing Approver Tool only
+2025-04-29 01:54:56.188796,Showing Dispatcher Tool only
+2025-04-29 01:54:56.827102,Showing all tools
+2025-04-29 02:21:44.296795,WebDriver found on startup
+2025-04-29 02:22:20.627653,WebDriver found on startup
+2025-04-29 02:23:20.631279,WebDriver found on startup
+2025-04-29 02:23:36.308895,WebDriver found on startup
+2025-04-29 02:31:39.672106,WebDriver found on startup
+2025-04-29 02:31:42.579846,Launching approver module
+2025-04-29 02:32:01.745609,Approver module closed
+2025-04-29 02:33:25.942674,WebDriver found on startup
+2025-04-29 02:33:28.965146,Launching approver module
+2025-04-29 02:36:55.749009,Approver module closed
+2025-04-29 02:37:35.925561,Showing Dispatcher Tool only
+2025-04-29 02:37:36.365570,Showing Approver Tool only
+2025-04-29 02:37:36.914328,Showing all tools
+2025-04-29 02:37:37.635139,Showing Dispatcher Tool only
+2025-04-29 02:37:38.167704,Showing Approver Tool only
+2025-04-29 02:37:41.484736,Showing all tools
+2025-04-29 02:37:42.314800,Showing Approver Tool only
+2025-04-29 02:37:42.713798,Showing all tools
+2025-04-29 02:37:43.064754,Showing Approver Tool only
+2025-04-29 02:37:43.456268,Showing Dispatcher Tool only
+2025-04-29 02:37:43.734601,Showing Approver Tool only
+2025-04-29 02:37:44.674097,Showing all tools
+2025-04-29 02:38:23.466419,WebDriver found on startup
+2025-04-29 02:38:52.736529,WebDriver found on startup
+2025-04-29 02:38:57.074969,Showing Approver Tool only
+2025-04-29 02:38:57.394418,Showing Dispatcher Tool only
+2025-04-29 02:38:57.923902,Showing all tools
+2025-04-29 02:38:58.254084,Showing Approver Tool only
+2025-04-29 02:38:58.573822,Showing Dispatcher Tool only
+2025-04-29 02:38:59.013711,Showing all tools
+2025-04-29 02:38:59.844821,Showing Approver Tool only
+2025-04-29 02:39:00.665355,Showing all tools
+2025-04-29 02:40:01.039312,WebDriver found on startup
+2025-04-29 02:40:02.472651,Launching approver module
+2025-04-29 02:40:36.212614,Approver module closed
+2025-04-29 02:40:40.165775,Showing Dispatcher Tool only
+2025-04-29 02:40:40.493580,Showing Approver Tool only
+2025-04-29 02:40:40.963449,Showing all tools
+2025-04-29 02:40:41.553884,Showing Dispatcher Tool only
+2025-04-29 02:40:42.887328,Showing Approver Tool only
+2025-04-29 02:40:43.302425,Showing all tools
+2025-04-29 02:40:44.458784,Launching approver module
+2025-04-29 02:42:57.704100,WebDriver found on startup
+2025-04-29 02:43:02.641830,Launching dispatcher module
+2025-04-29 02:48:05.840574,Dispatcher module closed
+2025-04-29 02:48:08.110326,Showing Approver Tool only
+2025-04-29 02:48:08.650560,Showing Dispatcher Tool only
+2025-04-29 02:48:09.458210,Showing all tools
+2025-04-29 02:52:19.916416,WebDriver found on startup
+2025-04-29 02:52:27.288933,WebDriver found on startup
+2025-04-29 02:52:29.199790,Launching dispatcher module
+2025-04-29 09:05:32.787516,WebDriver found on startup
+2025-04-29 09:06:24.361132,Launching dispatcher module
+2025-04-29 09:06:30.138309,Dispatcher module closed
+2025-04-29 09:06:35.285274,Launching approver module
+2025-04-29 09:06:35.434637,Error launching approver: cannot import name 'work_inbox' from 'variables.Elements' (C:\Users\benava4\OneDrive - Henkel\Documents\[DRAFT] Auto\dispatcher\variables\Elements.py)
+2025-04-29 09:06:51.071759,WebDriver found on startup
+2025-04-29 09:10:10.007767,WebDriver found on startup
+2025-04-29 09:10:23.563955,Launching dispatcher module
+2025-04-29 09:10:27.691138,Dispatcher module closed
+2025-04-29 09:10:29.508766,Launching approver module
+2025-04-29 09:10:29.647254,Error launching approver: cannot import name 'work_inbox' from 'variables.Elements' (C:\Users\benava4\OneDrive - Henkel\Documents\[DRAFT] Auto\dispatcher\variables\Elements.py)
+2025-04-29 09:11:45.292380,WebDriver found on startup
+2025-04-29 09:11:47.500264,Launching dispatcher module
+2025-04-29 09:11:50.132024,Dispatcher module closed
+2025-04-29 09:20:29.814879,WebDriver found on startup
+2025-04-29 09:20:33.074193,Launching dispatcher module
+2025-04-29 09:20:37.075122,Dispatcher module closed
+2025-04-29 09:20:39.196140,Launching dispatcher module
+2025-04-29 09:20:40.887951,Dispatcher module closed
+2025-04-29 09:20:54.751977,Launching approver module
+2025-04-29 09:20:54.867641,Error launching approver: cannot import name 'work_inbox' from 'variables.Elements' (C:\Users\benava4\OneDrive - Henkel\Documents\[DRAFT] Auto\dispatcher\variables\Elements.py)
+2025-04-29 09:21:37.860061,Launching approver module
+2025-04-29 09:21:38.033379,Error launching approver: cannot import name 'work_inbox' from 'variables.Elements' (C:\Users\benava4\OneDrive - Henkel\Documents\[DRAFT] Auto\dispatcher\variables\Elements.py)
+2025-04-29 09:31:10.279464,WebDriver found on startup
+2025-04-29 09:31:11.954926,Launching dispatcher module
+2025-04-29 09:33:14.136777,Dispatcher module closed
+2025-04-29 09:33:15.557337,Launching approver module
+2025-04-29 09:36:53.868881,Approver module closed
+2025-04-29 09:36:56.505851,Launching dispatcher module
+2025-04-29 09:36:58.324993,Dispatcher module closed
+2025-04-29 09:37:29.799100,Launching dispatcher module
+2025-04-29 09:37:31.198294,Dispatcher module closed
+2025-04-29 09:40:37.972604,WebDriver found on startup
+2025-04-29 09:40:39.248392,Launching approver module
+2025-04-29 09:40:45.955076,Approver module closed
+2025-04-29 09:40:47.073834,Launching dispatcher module
+2025-04-29 09:43:08.029214,Dispatcher module closed
+2025-04-29 09:43:22.316934,Showing Approver Tool only
+2025-04-29 09:43:22.674922,Showing Dispatcher Tool only
+2025-04-29 09:43:23.616106,Showing Approver Tool only
+2025-04-29 09:43:23.985337,Showing Dispatcher Tool only
+2025-04-29 09:43:24.363166,Showing all tools
+2025-04-29 09:43:24.662844,Showing all tools
+2025-04-29 09:44:53.411687,Launching approver module
+2025-04-29 09:46:24.814582,Approver module closed
+2025-04-29 09:46:27.164653,Launching dispatcher module
+2025-04-29 09:59:35.127885,Dispatcher module closed
+2025-04-29 09:59:36.828474,Launching dispatcher module
+2025-04-29 10:04:59.226184,Dispatcher module closed
+2025-04-29 10:05:01.004436,Launching dispatcher module
+2025-04-29 10:10:58.819934,Dispatcher module closed
+2025-04-29 10:12:24.797998,WebDriver found on startup
+2025-04-29 10:12:26.580913,Launching dispatcher module
+2025-04-29 10:33:29.453894,WebDriver found on startup
+2025-04-29 10:33:30.945325,Launching dispatcher module
+2025-04-29 10:39:11.004610,Dispatcher module closed
+2025-04-29 10:39:13.571483,Showing Approver Tool only
+2025-04-29 10:39:14.353263,Showing Dispatcher Tool only
+2025-04-29 10:39:14.691044,Showing all tools
+2025-04-29 10:39:15.595587,Launching approver module
+2025-04-29 10:39:15.644594,Error launching approver: cannot import name 'work_inbox' from 'variables.Elements' (C:\Users\benava4\OneDrive - Henkel\Documents\[DRAFT] Auto\dispatcher\variables\Elements.py)
+2025-04-29 12:20:40.772485,WebDriver found on startup
+2025-04-29 12:20:51.796150,Showing Dispatcher Tool only
+2025-04-29 12:20:52.508146,Showing Approver Tool only
+2025-04-29 12:20:54.048023,Showing all tools
+2025-04-29 12:20:55.030169,Launching approver module
+2025-04-29 12:21:04.932859,Approver module closed
+2025-04-29 12:21:07.200046,Showing Approver Tool only
+2025-04-29 12:21:07.548290,Showing Dispatcher Tool only
+2025-04-29 12:21:08.857263,Showing all tools

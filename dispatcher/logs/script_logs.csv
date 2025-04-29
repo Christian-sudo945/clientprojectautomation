@@ -1,0 +1,578 @@
+Timestamp,Message
+2025-04-27 20:52:49.434620,Edge WebDriver initialized successfully
+2025-04-27 20:56:52.619909,Edge WebDriver initialized successfully
+2025-04-27 21:00:11.544217,Edge WebDriver initialized successfully
+2025-04-27 21:00:11.544828,Driver initialized
+2025-04-27 21:00:11.592983,"Error during automation: Message: invalid argument
+  (Session info: MicrosoftEdge=135.0.3179.98)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E0DD7A55+24981]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6E0D2AC60+444240]
+	(No symbol) [0x00007FF6E0AFBB20]
+	(No symbol) [0x00007FF6E0AEC192]
+	(No symbol) [0x00007FF6E0AEABB5]
+	(No symbol) [0x00007FF6E0AEB12C]
+	(No symbol) [0x00007FF6E0AFF18A]
+	(No symbol) [0x00007FF6E0B86E6E]
+	(No symbol) [0x00007FF6E0B6909A]
+	(No symbol) [0x00007FF6E0B3E13D]
+	(No symbol) [0x00007FF6E0B867E8]
+	(No symbol) [0x00007FF6E0B68E03]
+	(No symbol) [0x00007FF6E0B3D686]
+	(No symbol) [0x00007FF6E0B3CB92]
+	(No symbol) [0x00007FF6E0B3D4B3]
+	(No symbol) [0x00007FF6E0C3900D]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6E0C46943+41539]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6E0C3FC79+13689]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6E0EBA04A+290794]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6E0D37D31+497697]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6E0D30BB4+468644]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6E0D30D03+468979]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6E0D22E16+411910]
+	BaseThreadInitThunk [0x00007FF921447374+20]
+	RtlUserThreadStart [0x00007FF9232DCC91+33]
+"
+2025-04-27 21:17:51.306066,Edge WebDriver initialized successfully
+2025-04-27 21:35:32.541383,Edge WebDriver initialized successfully
+2025-04-27 21:46:29.205843,Edge WebDriver initialized successfully
+2025-04-27 22:01:55.990023,Edge WebDriver initialized successfully
+2025-04-27 22:04:25.336743,Edge WebDriver initialized successfully
+2025-04-27 22:13:29.292008,Edge WebDriver initialized successfully
+2025-04-27 22:51:41.050283,Edge WebDriver initialized successfully
+2025-04-27 23:14:26.831341,Edge WebDriver initialized successfully
+2025-04-28 00:24:50.392532,Error initializing Edge WebDriver: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-04-28 22:42:17.944849,Edge WebDriver initialized successfully
+2025-04-28 22:43:05.689963,Edge WebDriver initialized successfully
+2025-04-28 22:43:05.694852,Driver initialized
+2025-04-28 22:43:08.500537,Driver initialized
+2025-04-28 22:43:08.531312,Function executed successfully for element body.
+2025-04-28 22:43:08.533796,Browser opened.
+2025-04-28 22:43:08.536000,Driver initialized
+2025-04-28 22:43:08.561694,Function executed successfully for element iframe.
+2025-04-28 22:43:08.587292,Driver initialized
+2025-04-28 22:43:08.726227,Function executed successfully for element iFrameId_1745851388088.
+2025-04-28 22:43:08.732018,Driver initialized
+2025-04-28 22:43:15.064401,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-28 22:43:15.069499,Driver initialized
+2025-04-28 22:43:15.147395,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-28 22:43:20.311031,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-28 22:43:20.317067,Driver initialized
+2025-04-28 22:43:20.352997,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-28 22:43:20.356065,Driver initialized
+2025-04-28 22:43:20.421962,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-28 22:43:20.699069,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-28 22:43:21.003539,Driver initialized
+2025-04-28 22:43:21.029006,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-28 22:43:21.032357,Driver initialized
+2025-04-28 22:43:21.119260,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-28 22:43:21.122304,Driver initialized
+2025-04-28 22:43:21.172507,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-28 22:43:21.619717,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-28 22:43:21.924846,Driver initialized
+2025-04-28 22:43:22.516333,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-28 22:43:22.519201,Driver initialized
+2025-04-28 22:43:22.569206,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-28 22:43:25.109092,Driver initialized
+2025-04-28 22:43:25.168187,"Function executed successfully for element //*[@rr=""77""]."
+2025-04-28 22:43:25.700706,"Element '//*[@rr=""77""]' clicked."
+2025-04-28 22:43:25.705223,Driver initialized
+2025-04-28 22:43:26.265997,"Function executed successfully for element //*[@lsdata=""{0:'Administration'}""]."
+2025-04-28 22:43:28.283835,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""592b39e370b5158d50b99a3a523da71c"", element=""f.A43A1B34EDF131A1DEB55500FEC33276.d.E5FA13D48A22333B03FC34D0F2DBC0EF.e.180"")>' clicked."
+2025-04-28 22:43:28.289877,Driver initialized
+2025-04-28 22:43:30.503331,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-28 22:43:30.507748,Driver initialized
+2025-04-28 22:43:30.530845,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-28 22:43:31.063822,Element '//a[.//span[text()='DEFAULT_PATH']]' clicked.
+2025-04-28 22:43:31.074596,Driver initialized
+2025-04-28 22:43:32.152782,Function executed successfully for element ['B2A7E1A2C9D035E87DB29B4CCF3C709E'].
+2025-04-28 22:43:32.171986,Driver initialized
+2025-04-28 22:43:32.936181,Function executed successfully for element content_frame.
+2025-04-28 22:43:32.942511,Driver initialized
+2025-04-28 22:43:36.838541,"Function executed successfully for element //*[@title=""Other Actions""]."
+2025-04-28 22:43:37.646918,"Element '//*[@title=""Other Actions""]' clicked."
+2025-04-28 22:43:37.653234,Driver initialized
+2025-04-28 22:43:37.735305,Function executed successfully for element //span[text()='Forward Request'].
+2025-04-28 22:43:38.035433,Element '//span[text()='Forward Request']' clicked.
+2025-04-28 22:43:38.040193,Driver initialized
+2025-04-28 22:43:39.331647,Function executed successfully for element //input[@ct='CBS'].
+2025-04-28 22:43:39.937388,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""592b39e370b5158d50b99a3a523da71c"", element=""f.B00BFE6EA2015019C9459C8D27B0D786.d.3DE1002E5A48F3D5FF2E7DBED8F705E7.e.253"")>' clicked."
+2025-04-28 22:43:43.078908,Driver initialized
+2025-04-28 22:43:43.106389,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:43:43.137637,Error during automation: EdgeAutomation.dispatcher_log() takes 4 positional arguments but 5 were given
+2025-04-28 22:44:05.504592,Edge WebDriver initialized successfully
+2025-04-28 22:44:05.508201,Driver initialized
+2025-04-28 22:44:08.220228,Driver initialized
+2025-04-28 22:44:08.254319,Function executed successfully for element body.
+2025-04-28 22:44:08.258433,Browser opened.
+2025-04-28 22:44:08.262785,Driver initialized
+2025-04-28 22:44:08.295422,Function executed successfully for element iframe.
+2025-04-28 22:44:08.322936,Driver initialized
+2025-04-28 22:44:08.438244,Function executed successfully for element iFrameId_1745851447808.
+2025-04-28 22:44:08.443475,Driver initialized
+2025-04-28 22:44:14.464212,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-28 22:44:14.468326,Driver initialized
+2025-04-28 22:44:14.536661,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-28 22:44:19.914925,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-28 22:44:19.921136,Driver initialized
+2025-04-28 22:44:19.956996,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-28 22:44:19.961857,Driver initialized
+2025-04-28 22:44:20.034426,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-28 22:44:20.369874,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-28 22:44:20.675443,Driver initialized
+2025-04-28 22:44:20.754689,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-28 22:44:20.757843,Driver initialized
+2025-04-28 22:44:20.809444,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-28 22:44:21.259023,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-28 22:44:21.564556,Driver initialized
+2025-04-28 22:44:21.659672,"The element //*[@acf=""Hndl""] is stale."
+2025-04-28 22:44:21.664940,Driver initialized
+2025-04-28 22:44:21.730156,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-28 22:44:21.734607,Driver initialized
+2025-04-28 22:44:21.802340,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-28 22:44:24.295506,Driver initialized
+2025-04-28 22:44:24.370052,"Function executed successfully for element //*[@rr=""10""]."
+2025-04-28 22:44:25.172779,"Element '//*[@rr=""10""]' clicked."
+2025-04-28 22:44:25.177032,Driver initialized
+2025-04-28 22:44:25.935298,"Function executed successfully for element //*[@lsdata=""{0:'Administration'}""]."
+2025-04-28 22:44:27.779865,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""da72d0f4c07f6c78f6004ccf74e5885c"", element=""f.A78D4789D093937FE20126B6BE2EE3F5.d.FE7E516E416D953A630702F7B6AC9E3D.e.179"")>' clicked."
+2025-04-28 22:44:27.784874,Driver initialized
+2025-04-28 22:44:29.964467,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-28 22:44:29.969271,Driver initialized
+2025-04-28 22:44:29.992767,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-28 22:44:30.502181,Element '//a[.//span[text()='DEFAULT_PATH']]' clicked.
+2025-04-28 22:44:30.514204,Driver initialized
+2025-04-28 22:44:31.556281,Function executed successfully for element ['A0A16ED2AB77CA0B32C047AA12E80C66'].
+2025-04-28 22:44:31.595481,Driver initialized
+2025-04-28 22:44:32.305547,Function executed successfully for element content_frame.
+2025-04-28 22:44:32.313598,Driver initialized
+2025-04-28 22:44:36.433088,"Function executed successfully for element //*[@title=""Other Actions""]."
+2025-04-28 22:44:37.185459,"Element '//*[@title=""Other Actions""]' clicked."
+2025-04-28 22:44:37.192184,Driver initialized
+2025-04-28 22:44:37.285141,Function executed successfully for element //span[text()='Forward Request'].
+2025-04-28 22:44:37.640295,Element '//span[text()='Forward Request']' clicked.
+2025-04-28 22:44:37.645704,Driver initialized
+2025-04-28 22:44:38.687496,Function executed successfully for element //input[@ct='CBS'].
+2025-04-28 22:44:39.249407,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""da72d0f4c07f6c78f6004ccf74e5885c"", element=""f.F16450FB71AD44DE6A72AB033EC46A18.d.AD1120BC71E7148B5728ADA044DE8109.e.256"")>' clicked."
+2025-04-28 22:44:42.390168,Driver initialized
+2025-04-28 22:44:42.426117,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-28 22:44:42.464674,Error during automation: EdgeAutomation.dispatcher_log() takes 4 positional arguments but 5 were given
+2025-04-28 23:57:57.594626,Edge WebDriver initialized successfully
+2025-04-29 00:11:59.816312,Edge WebDriver initialized successfully
+2025-04-29 00:18:12.671165,Edge WebDriver initialized successfully
+2025-04-29 01:03:27.050403,Edge WebDriver initialized successfully
+2025-04-29 01:03:57.479922,Edge WebDriver initialized successfully
+2025-04-29 01:52:00.699576,Edge WebDriver initialized successfully
+2025-04-29 02:43:06.923328,Edge WebDriver initialized successfully
+2025-04-29 02:43:59.119778,Edge WebDriver initialized successfully
+2025-04-29 02:43:59.125103,Driver initialized
+2025-04-29 02:44:04.686768,Driver initialized
+2025-04-29 02:44:04.729279,Function executed successfully for element body.
+2025-04-29 02:44:04.733583,Browser opened.
+2025-04-29 02:44:04.740267,Driver initialized
+2025-04-29 02:44:04.774652,Function executed successfully for element iframe.
+2025-04-29 02:44:04.810345,Driver initialized
+2025-04-29 02:44:05.131232,Function executed successfully for element iFrameId_1745865843240.
+2025-04-29 02:44:05.137798,Driver initialized
+2025-04-29 02:44:19.914629,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:44:19.920874,Driver initialized
+2025-04-29 02:44:20.025877,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:44:36.107298,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 02:44:36.122659,Driver initialized
+2025-04-29 02:44:36.206877,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:44:36.211427,Driver initialized
+2025-04-29 02:44:56.227379,Timeout occurred while waiting for div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'] to load.
+2025-04-29 02:44:56.533649,Driver initialized
+2025-04-29 02:44:56.566173,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:44:56.572003,Driver initialized
+2025-04-29 02:44:56.635834,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:44:56.932987,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 02:44:57.240432,Driver initialized
+2025-04-29 02:45:04.150284,"Error during automation: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+2025-04-29 02:45:14.437643,Edge WebDriver initialized successfully
+2025-04-29 02:45:14.444969,Driver initialized
+2025-04-29 02:45:20.529115,Driver initialized
+2025-04-29 02:45:20.565483,Function executed successfully for element body.
+2025-04-29 02:45:20.573925,Browser opened.
+2025-04-29 02:45:20.579101,Driver initialized
+2025-04-29 02:45:20.617863,Function executed successfully for element iframe.
+2025-04-29 02:45:20.647856,Driver initialized
+2025-04-29 02:45:20.985899,Function executed successfully for element iFrameId_1745865919708.
+2025-04-29 02:45:20.995704,Driver initialized
+2025-04-29 02:45:38.709446,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:45:38.717614,Driver initialized
+2025-04-29 02:45:38.822192,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:45:47.202595,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 02:45:47.211925,Driver initialized
+2025-04-29 02:45:47.265547,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:45:47.274201,Driver initialized
+2025-04-29 02:45:47.334154,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:45:47.613875,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 02:45:47.922649,Driver initialized
+2025-04-29 02:45:47.961060,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:45:47.968618,Driver initialized
+2025-04-29 02:45:48.040547,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:45:48.361210,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 02:45:48.667118,Driver initialized
+2025-04-29 02:46:05.537445,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-29 02:46:05.547928,Driver initialized
+2025-04-29 02:46:05.663953,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:46:09.299424,Driver initialized
+2025-04-29 02:46:09.397853,"Function executed successfully for element //*[@rr=""10""]."
+2025-04-29 02:46:09.746345,"The element //*[@rr=""10""] is stale."
+2025-04-29 02:46:09.754436,Error during automation: EdgeAutomation.click_element() takes 2 positional arguments but 3 were given
+2025-04-29 02:46:27.291620,Edge WebDriver initialized successfully
+2025-04-29 02:46:27.298966,Driver initialized
+2025-04-29 02:46:33.488167,Driver initialized
+2025-04-29 02:46:33.535147,Function executed successfully for element body.
+2025-04-29 02:46:33.543118,Browser opened.
+2025-04-29 02:46:33.550944,Driver initialized
+2025-04-29 02:46:33.601470,Function executed successfully for element iframe.
+2025-04-29 02:46:33.629853,Driver initialized
+2025-04-29 02:46:33.927273,Function executed successfully for element iFrameId_1745865991841.
+2025-04-29 02:46:33.936902,Driver initialized
+2025-04-29 02:46:48.376467,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:46:48.381894,Driver initialized
+2025-04-29 02:46:48.508376,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:47:02.068833,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 02:47:02.081099,Driver initialized
+2025-04-29 02:47:02.169110,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:47:02.177031,Driver initialized
+2025-04-29 02:47:02.247184,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:47:02.527790,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 02:47:02.834252,Driver initialized
+2025-04-29 02:47:02.868679,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:47:02.874239,Driver initialized
+2025-04-29 02:47:02.946058,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:47:03.234283,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 02:47:03.540135,Driver initialized
+2025-04-29 02:47:23.896036,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 02:47:23.901975,Driver initialized
+2025-04-29 02:47:23.975126,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:47:24.465474,"Error during automation: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+2025-04-29 02:52:33.960900,Edge WebDriver initialized successfully
+2025-04-29 02:53:07.695560,Edge WebDriver initialized successfully
+2025-04-29 02:53:07.702847,Driver initialized
+2025-04-29 02:53:13.609906,Driver initialized
+2025-04-29 02:53:13.658206,Function executed successfully for element body.
+2025-04-29 02:53:13.665395,Browser opened.
+2025-04-29 02:53:13.672292,Driver initialized
+2025-04-29 02:53:13.715248,Function executed successfully for element iframe.
+2025-04-29 02:53:13.743994,Driver initialized
+2025-04-29 02:53:14.056797,Function executed successfully for element iFrameId_1745866392591.
+2025-04-29 02:53:14.067634,Driver initialized
+2025-04-29 02:53:28.118940,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:53:28.129204,Driver initialized
+2025-04-29 02:53:28.237982,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:53:41.078188,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 02:53:41.092853,Driver initialized
+2025-04-29 02:53:41.150715,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:53:41.157491,Driver initialized
+2025-04-29 02:53:41.242646,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:53:41.488603,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 02:53:41.795263,Driver initialized
+2025-04-29 02:53:41.839331,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:53:41.847798,Driver initialized
+2025-04-29 02:53:41.909731,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:53:42.156015,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 02:53:42.463477,Driver initialized
+2025-04-29 02:54:02.704251,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 02:54:02.711528,Driver initialized
+2025-04-29 02:54:02.791554,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:54:03.295404,"Error during automation: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+2025-04-29 02:54:26.885917,Edge WebDriver initialized successfully
+2025-04-29 02:54:26.893527,Driver initialized
+2025-04-29 02:54:32.349481,Driver initialized
+2025-04-29 02:54:32.383968,Function executed successfully for element body.
+2025-04-29 02:54:32.390797,Browser opened.
+2025-04-29 02:54:32.397068,Driver initialized
+2025-04-29 02:54:32.492038,Function executed successfully for element iframe.
+2025-04-29 02:54:32.546797,Driver initialized
+2025-04-29 02:54:32.824849,Function executed successfully for element iFrameId_1745866471514.
+2025-04-29 02:54:32.834409,Driver initialized
+2025-04-29 02:54:45.842785,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:54:45.849885,Driver initialized
+2025-04-29 02:54:46.091057,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 02:54:58.914588,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 02:54:58.922837,Driver initialized
+2025-04-29 02:54:58.965976,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:54:58.971087,Driver initialized
+2025-04-29 02:54:59.047995,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 02:54:59.320686,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 02:54:59.649267,Driver initialized
+2025-04-29 02:54:59.738161,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:54:59.746569,Driver initialized
+2025-04-29 02:54:59.895348,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-29 02:54:59.904075,Driver initialized
+2025-04-29 02:54:59.985369,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 02:55:00.765371,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 02:55:01.080914,Driver initialized
+2025-04-29 02:55:01.711551,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-29 02:55:01.717966,Driver initialized
+2025-04-29 02:55:01.811506,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 02:55:05.894494,Driver initialized
+2025-04-29 02:55:06.021916,"The element //*[@rr=""10""] is stale."
+2025-04-29 02:55:06.028822,Driver initialized
+2025-04-29 02:55:26.074039,"Timeout occurred while waiting for //*[@rr=""10""] to load."
+2025-04-29 02:55:26.094129,Driver initialized
+2025-04-29 02:55:26.706078,"Function executed successfully for element //*[@lsdata=""{0:'Administration'}""]."
+2025-04-29 02:55:28.509397,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""dc19c84d8629287f22b2048d75fa65f6"", element=""f.835A7D21AA5386C32E3BDB18D68BB35F.d.0B3CAD7E5D029931DDCFA29A95F11F8A.e.515"")>' clicked."
+2025-04-29 02:55:28.516500,Driver initialized
+2025-04-29 02:55:33.137910,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 02:55:33.145450,Driver initialized
+2025-04-29 02:55:33.187509,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 02:55:33.471998,Element '//a[.//span[text()='DEFAULT_PATH']]' clicked.
+2025-04-29 02:55:33.484919,Driver initialized
+2025-04-29 02:55:35.528855,Function executed successfully for element ['F9C603041EC0F7ACA64DBDE907118CAC'].
+2025-04-29 02:55:35.546098,Driver initialized
+2025-04-29 02:55:37.397450,Function executed successfully for element content_frame.
+2025-04-29 02:55:37.405971,Driver initialized
+2025-04-29 02:55:44.602877,"Function executed successfully for element //*[@title=""Other Actions""]."
+2025-04-29 02:55:45.806815,"Element '//*[@title=""Other Actions""]' clicked."
+2025-04-29 02:55:45.821030,Driver initialized
+2025-04-29 02:55:46.004611,Function executed successfully for element //span[text()='Forward Request'].
+2025-04-29 02:55:46.364735,Element '//span[text()='Forward Request']' clicked.
+2025-04-29 02:55:46.370238,Driver initialized
+2025-04-29 02:55:48.330796,Function executed successfully for element //input[@ct='CBS'].
+2025-04-29 02:55:48.741096,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""dc19c84d8629287f22b2048d75fa65f6"", element=""f.02FAA92028AD006B7E10C7DEDD1408BA.d.3F3D57B918CFE7DE49C9BBBAB3C9A43E.e.588"")>' clicked."
+2025-04-29 02:55:51.905031,Driver initialized
+2025-04-29 02:55:51.937988,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 02:55:51.972355,Error during automation: EdgeAutomation.dispatcher_log() takes 4 positional arguments but 5 were given
+2025-04-29 03:02:50.919082,Edge WebDriver initialized successfully
+2025-04-29 03:02:50.925283,Driver initialized
+2025-04-29 03:02:58.272084,Driver initialized
+2025-04-29 03:02:58.302767,Function executed successfully for element body.
+2025-04-29 03:02:58.308838,Browser opened.
+2025-04-29 03:02:58.316148,Driver initialized
+2025-04-29 03:02:58.345001,Function executed successfully for element iframe.
+2025-04-29 03:02:58.365940,Driver initialized
+2025-04-29 03:02:58.733727,Function executed successfully for element iFrameId_1745866976906.
+2025-04-29 03:02:58.746101,Driver initialized
+2025-04-29 03:03:12.468829,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 03:03:12.476638,Driver initialized
+2025-04-29 03:03:12.560872,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 03:03:25.751153,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 03:03:25.757903,Driver initialized
+2025-04-29 03:03:25.794860,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 03:03:25.802849,Driver initialized
+2025-04-29 03:03:25.864941,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 03:03:26.130821,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 03:03:26.437453,Driver initialized
+2025-04-29 03:03:26.480953,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 03:03:26.489056,Driver initialized
+2025-04-29 03:03:26.551234,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 03:03:26.735802,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-29 03:03:26.741325,Error during automation: EdgeAutomation.click_element() takes 2 positional arguments but 3 were given
+2025-04-29 03:03:49.811439,Edge WebDriver initialized successfully
+2025-04-29 03:03:49.819843,Driver initialized
+2025-04-29 03:03:55.836617,Driver initialized
+2025-04-29 03:03:55.868820,Function executed successfully for element body.
+2025-04-29 03:03:55.876749,Browser opened.
+2025-04-29 03:03:55.883536,Driver initialized
+2025-04-29 03:03:55.920813,Function executed successfully for element iframe.
+2025-04-29 03:03:55.950396,Driver initialized
+2025-04-29 03:03:56.296365,Function executed successfully for element iFrameId_1745867034203.
+2025-04-29 03:03:56.304599,Driver initialized
+2025-04-29 03:04:09.964528,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 03:04:09.971702,Driver initialized
+2025-04-29 03:04:10.081858,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 03:04:22.167324,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 03:04:22.178505,Driver initialized
+2025-04-29 03:04:22.222802,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 03:04:22.231295,Driver initialized
+2025-04-29 03:04:22.310683,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 03:04:22.633514,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 03:04:22.941026,Driver initialized
+2025-04-29 03:04:22.986218,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 03:04:22.992796,Driver initialized
+2025-04-29 03:04:23.068957,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 03:04:23.324951,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 03:04:23.631588,Driver initialized
+2025-04-29 03:04:44.139393,"Timeout occurred while waiting for //*[@acf=""Hndl""] to load."
+2025-04-29 03:04:44.156179,Driver initialized
+2025-04-29 03:04:44.243390,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 03:04:44.834805,"Error during automation: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+2025-04-29 09:40:51.813188,Edge WebDriver initialized successfully
+2025-04-29 09:41:25.936894,Edge WebDriver initialized successfully
+2025-04-29 09:41:25.946471,Driver initialized
+2025-04-29 09:41:30.132825,Driver initialized
+2025-04-29 09:41:30.201051,Function executed successfully for element body.
+2025-04-29 09:41:30.208333,Browser opened.
+2025-04-29 09:41:30.215990,Driver initialized
+2025-04-29 09:41:30.251067,Function executed successfully for element iframe.
+2025-04-29 09:41:30.290290,Driver initialized
+2025-04-29 09:41:30.392399,Function executed successfully for element iFrameId_1745890889641.
+2025-04-29 09:41:30.399056,Error during automation: name 'variant_dropdown_xpath' is not defined
+2025-04-29 09:41:47.559471,Edge WebDriver initialized successfully
+2025-04-29 09:41:47.568788,Driver initialized
+2025-04-29 09:41:51.146408,Driver initialized
+2025-04-29 09:41:51.239279,Function executed successfully for element body.
+2025-04-29 09:41:51.247871,Browser opened.
+2025-04-29 09:41:51.255915,Driver initialized
+2025-04-29 09:41:51.359522,Function executed successfully for element iframe.
+2025-04-29 09:41:51.443901,Driver initialized
+2025-04-29 09:41:51.579962,Function executed successfully for element iFrameId_1745890910627.
+2025-04-29 09:41:51.588188,Error during automation: name 'variant_dropdown_xpath' is not defined
+2025-04-29 09:42:43.229618,Edge WebDriver initialized successfully
+2025-04-29 09:42:43.238960,Driver initialized
+2025-04-29 09:42:47.377613,Driver initialized
+2025-04-29 09:42:47.421353,Function executed successfully for element body.
+2025-04-29 09:42:47.430232,Browser opened.
+2025-04-29 09:42:47.438887,Driver initialized
+2025-04-29 09:42:47.491712,Function executed successfully for element iframe.
+2025-04-29 09:42:47.527748,Driver initialized
+2025-04-29 09:42:47.644607,Function executed successfully for element iFrameId_1745890966905.
+2025-04-29 09:42:47.653534,Error during automation: name 'variant_dropdown_xpath' is not defined
+2025-04-29 09:46:35.935673,Edge WebDriver initialized successfully
+2025-04-29 09:59:40.504503,Edge WebDriver initialized successfully
+2025-04-29 10:05:04.223713,Edge WebDriver initialized successfully
+2025-04-29 10:05:33.798868,Edge WebDriver initialized successfully
+2025-04-29 10:05:33.804676,Driver initialized
+2025-04-29 10:05:37.378191,Driver initialized
+2025-04-29 10:05:37.400971,Function executed successfully for element body.
+2025-04-29 10:05:37.406162,Browser opened.
+2025-04-29 10:05:37.410718,Driver initialized
+2025-04-29 10:05:37.430335,Function executed successfully for element iframe.
+2025-04-29 10:05:37.445638,Driver initialized
+2025-04-29 10:05:37.662163,Function executed successfully for element iFrameId_1745892336929.
+2025-04-29 10:05:37.668609,Error during automation: name 'variant_dropdown_xpath' is not defined
+2025-04-29 10:12:30.242014,Edge WebDriver initialized successfully
+2025-04-29 10:12:54.552115,Edge WebDriver initialized successfully
+2025-04-29 10:12:54.557777,Driver initialized
+2025-04-29 10:12:58.102347,Driver initialized
+2025-04-29 10:12:58.122938,Function executed successfully for element body.
+2025-04-29 10:12:58.125055,Browser opened.
+2025-04-29 10:12:58.126884,Driver initialized
+2025-04-29 10:12:58.142767,Function executed successfully for element iframe.
+2025-04-29 10:12:58.157519,Driver initialized
+2025-04-29 10:12:58.362411,Function executed successfully for element iFrameId_1745892777651.
+2025-04-29 10:12:58.365695,Driver initialized
+2025-04-29 10:13:04.950176,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:13:04.952903,Driver initialized
+2025-04-29 10:13:04.995471,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:13:10.667971,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 10:13:10.671358,Driver initialized
+2025-04-29 10:13:10.693486,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:13:10.695842,Driver initialized
+2025-04-29 10:13:10.728170,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:13:10.875476,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 10:13:11.178776,Driver initialized
+2025-04-29 10:13:11.200241,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:13:11.202025,Driver initialized
+2025-04-29 10:13:11.229460,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:13:11.269448,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-29 10:13:11.271314,Error during automation: EdgeAutomation.click_element() takes 2 positional arguments but 3 were given
+2025-04-29 10:33:33.910870,Edge WebDriver initialized successfully
+2025-04-29 10:33:57.476837,Edge WebDriver initialized successfully
+2025-04-29 10:33:57.479957,Driver initialized
+2025-04-29 10:34:01.056306,Driver initialized
+2025-04-29 10:34:01.078144,Function executed successfully for element body.
+2025-04-29 10:34:01.081022,Browser opened.
+2025-04-29 10:34:01.084438,Driver initialized
+2025-04-29 10:34:01.114714,Function executed successfully for element iframe.
+2025-04-29 10:34:01.131804,Driver initialized
+2025-04-29 10:34:01.343218,Function executed successfully for element iFrameId_1745894040611.
+2025-04-29 10:34:01.345399,Driver initialized
+2025-04-29 10:34:07.970262,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:34:07.972953,Driver initialized
+2025-04-29 10:34:08.026190,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:34:13.842570,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 10:34:13.847408,Driver initialized
+2025-04-29 10:34:13.868171,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:34:13.870541,Driver initialized
+2025-04-29 10:34:13.914183,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:34:14.085172,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 10:34:14.388505,Driver initialized
+2025-04-29 10:34:14.407346,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:34:14.409648,Driver initialized
+2025-04-29 10:34:14.464718,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-29 10:34:14.467740,Driver initialized
+2025-04-29 10:34:14.504953,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:34:14.920904,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 10:34:15.224668,Driver initialized
+2025-04-29 10:34:15.784900,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-29 10:34:15.786904,Driver initialized
+2025-04-29 10:34:15.823326,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 10:34:18.442428,Driver initialized
+2025-04-29 10:34:18.498611,"Function executed successfully for element //*[@rr=""50""]."
+2025-04-29 10:34:18.940929,"Element '//*[@rr=""50""]' clicked."
+2025-04-29 10:34:18.944682,Driver initialized
+2025-04-29 10:34:19.479645,"Function executed successfully for element //*[@lsdata=""{0:'Administration'}""]."
+2025-04-29 10:34:21.362691,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""c77ead34c8105cbb6bb0ff84d141bf2e"", element=""f.53CB0069FA9FF9A9C972104DEC9ADC8A.d.59AD97FB10CBA3A2961089B8C39AB2C0.e.179"")>' clicked."
+2025-04-29 10:34:21.366965,Driver initialized
+2025-04-29 10:34:23.751169,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 10:34:23.755492,Driver initialized
+2025-04-29 10:34:23.770734,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 10:34:24.334955,Element '//a[.//span[text()='DEFAULT_PATH']]' clicked.
+2025-04-29 10:34:24.341292,Driver initialized
+2025-04-29 10:34:25.366961,Function executed successfully for element ['D639C89AF26FDE9C95C4AED0F2E9C98D'].
+2025-04-29 10:34:25.373777,Driver initialized
+2025-04-29 10:34:26.183149,Function executed successfully for element content_frame.
+2025-04-29 10:34:26.185714,Driver initialized
+2025-04-29 10:34:30.222918,"Function executed successfully for element //*[@title=""Other Actions""]."
+2025-04-29 10:34:30.900482,"Element '//*[@title=""Other Actions""]' clicked."
+2025-04-29 10:34:30.902926,Driver initialized
+2025-04-29 10:34:30.968324,Function executed successfully for element //span[text()='Forward Request'].
+2025-04-29 10:34:31.158494,Element '//span[text()='Forward Request']' clicked.
+2025-04-29 10:34:31.161302,Driver initialized
+2025-04-29 10:34:32.186503,Function executed successfully for element //input[@ct='CBS'].
+2025-04-29 10:34:32.737132,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""c77ead34c8105cbb6bb0ff84d141bf2e"", element=""f.33798BA08442D63FAF899E761470B2A7.d.ACF3ECCAE50BF950CB6A0C4E9AA831CA.e.251"")>' clicked."
+2025-04-29 10:34:35.831761,Driver initialized
+2025-04-29 10:34:35.862502,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 10:34:35.891614,Error during automation: EdgeAutomation.dispatcher_log() takes 4 positional arguments but 5 were given
+2025-04-29 10:37:14.329507,Edge WebDriver initialized successfully
+2025-04-29 10:37:14.331917,Driver initialized
+2025-04-29 10:37:17.477153,Driver initialized
+2025-04-29 10:37:17.513818,Function executed successfully for element body.
+2025-04-29 10:37:17.516319,Browser opened.
+2025-04-29 10:37:17.518858,Driver initialized
+2025-04-29 10:37:17.564057,Function executed successfully for element iframe.
+2025-04-29 10:37:17.576808,Driver initialized
+2025-04-29 10:37:17.746466,Function executed successfully for element iFrameId_1745894236997.
+2025-04-29 10:37:17.749065,Driver initialized
+2025-04-29 10:37:24.402538,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:37:24.405865,Driver initialized
+2025-04-29 10:37:24.469257,"Function executed successfully for element //input[@title=""Available Searches""]."
+2025-04-29 10:37:30.311696,"Element '//input[@title=""Available Searches""]' clicked."
+2025-04-29 10:37:30.315386,Driver initialized
+2025-04-29 10:37:30.338741,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:37:30.341934,Driver initialized
+2025-04-29 10:37:30.376153,Function executed successfully for element div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN'].
+2025-04-29 10:37:30.547645,Element 'div.lsListbox__value[data-itemvalue1='TICKET_MNLADMIN']' clicked.
+2025-04-29 10:37:30.850389,Driver initialized
+2025-04-29 10:37:30.868454,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:37:30.870921,Driver initialized
+2025-04-29 10:37:30.938049,"The element //*[@lsdata=""{0:'Search'}""] is stale."
+2025-04-29 10:37:30.940816,Driver initialized
+2025-04-29 10:37:30.973217,"Function executed successfully for element //*[@lsdata=""{0:'Search'}""]."
+2025-04-29 10:37:31.359024,"Element '//*[@lsdata=""{0:'Search'}""]' clicked."
+2025-04-29 10:37:31.661243,Driver initialized
+2025-04-29 10:37:32.219215,"Function executed successfully for element //*[@acf=""Hndl""]."
+2025-04-29 10:37:32.221019,Driver initialized
+2025-04-29 10:37:32.253765,"Function executed successfully for element //*[@acf=""PNext""]."
+2025-04-29 10:37:34.646868,Driver initialized
+2025-04-29 10:37:34.689362,"Function executed successfully for element //*[@rr=""50""]."
+2025-04-29 10:37:35.076792,"Element '//*[@rr=""50""]' clicked."
+2025-04-29 10:37:35.079383,Driver initialized
+2025-04-29 10:37:35.610841,"Function executed successfully for element //*[@lsdata=""{0:'Administration'}""]."
+2025-04-29 10:37:37.515058,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""a6095c8615350e3ec3fa9fb555987a86"", element=""f.8B438E762DDFF48BF013F2F14DBCB966.d.C314CFD72D408EBF7BDB97217DE66D55.e.180"")>' clicked."
+2025-04-29 10:37:37.519035,Driver initialized
+2025-04-29 10:37:40.004588,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 10:37:40.007553,Driver initialized
+2025-04-29 10:37:40.025382,Function executed successfully for element //a[.//span[text()='DEFAULT_PATH']].
+2025-04-29 10:37:40.428844,Element '//a[.//span[text()='DEFAULT_PATH']]' clicked.
+2025-04-29 10:37:40.435154,Driver initialized
+2025-04-29 10:37:41.451695,Function executed successfully for element ['FB6FA851A89C0EB56C65E872F47EE30D'].
+2025-04-29 10:37:41.461595,Driver initialized
+2025-04-29 10:37:42.256452,Function executed successfully for element content_frame.
+2025-04-29 10:37:42.259269,Driver initialized
+2025-04-29 10:37:46.221725,"Function executed successfully for element //*[@title=""Other Actions""]."
+2025-04-29 10:37:46.941437,"Element '//*[@title=""Other Actions""]' clicked."
+2025-04-29 10:37:46.946330,Driver initialized
+2025-04-29 10:37:47.148625,Function executed successfully for element //span[text()='Forward Request'].
+2025-04-29 10:37:47.333553,Element '//span[text()='Forward Request']' clicked.
+2025-04-29 10:37:47.336185,Driver initialized
+2025-04-29 10:37:48.313326,Function executed successfully for element //input[@ct='CBS'].
+2025-04-29 10:37:48.825113,"Element '<selenium.webdriver.remote.webelement.WebElement (session=""a6095c8615350e3ec3fa9fb555987a86"", element=""f.D38CB9A5A8B8F80B639D58CAD19605CF.d.80EED7C1A99AD237CD1CE4A747733018.e.252"")>' clicked."
+2025-04-29 10:37:51.908969,Driver initialized
+2025-04-29 10:37:51.927421,"Function executed successfully for element //*[@class=""lsPageHeaderTitle--text-overflow""]."
+2025-04-29 10:37:51.955917,Error during automation: EdgeAutomation.dispatcher_log() takes 4 positional arguments but 5 were given
